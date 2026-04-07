@@ -1,0 +1,41 @@
+schedule:
+  - cron: '0 19 * * *'
+workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cleanup-remarks:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Find latest log and replace remarks
+        run: |
+          # Find the newest .md file in the logs directory
+          LATEST_LOG=$(ls logs/*.md 2>/dev/null | sort -r | head -1)
+          
+          # Check if a file was actually found
+          if [[ -f "$LATEST_LOG" ]]; then
+            echo "Processing file: $LATEST_LOG"
+            
+            # Use 'sed' to do the Find and Replace for both variations
+            sed -i 's/_add_remarks_/incomplete/g' "$LATEST_LOG"
+          else
+            echo "No log files found in the logs/ directory."
+            exit 0
+          fi
+
+      - name: Commit and Push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Add the modified file
+          git add logs/*.md
+          
+          # Commit only if there were actual changes made by the sed command
+          git commit -m "chore: auto-update pending remarks to incomplete" || echo "No changes to commit"
+          git push
