@@ -16,7 +16,7 @@
 - **Licensing:** NSW Photo Card (Apr 10) | NSW DKT Exam (Apr 24).
 
 ## Plan (Today)
-- Computer graphics - move the ball . Consider using OpenGL : Partially Completed. Implement mass and bounciness tomorrow
+- Computer graphics - move the ball . Consider using OpenGL : _Partially Completed. Implement mass and bounciness tomorrow_
 - Music Practice Valacchi Vaachi , Varisais in Shankarabharanam 
 - Follow up with property managers , book 4 inspections before the 10th
 - Complete Computer networks tutorial - 3
