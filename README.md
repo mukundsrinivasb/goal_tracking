@@ -20,6 +20,5 @@
 | :--- | :--- |
 | Computer graphics - move the ball . Consider using OpenGL | ... Implement mass and bounciness tomorrow
 | Music Practice Valacchi Vaachi , Varisais in Shankarabharanam | ✅ Practicing Dhattu varisais in Shankarabharanam , I had a problem with Dha.. Shall have to listen to arohana and avarohana again |
-| Follow up with property managers , book 4 inspections before the 10th | _add_remarks_ |
 | Complete Computer networks tutorial - 3 | _add_remarks_ |
 | Gym and 2230 | ✅ A lower intensity , spending only 30 mins at the gym |
