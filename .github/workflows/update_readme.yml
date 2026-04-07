@@ -1,0 +1,30 @@
+name: Update README with Latest Log
+
+on:
+  push:
+    paths:
+      - '*.md' # Only run when a new entry is pushed
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Find latest log and update README
+        run: |
+          # Find the newest file in the logs directory
+          LATEST_LOG=$(ls -t *.md | head -1)
+          
+          # Overwrite README.md with the latest log's contents
+          echo "# Latest G.S.P. Log" > README.md
+          cat "$LATEST_LOG" >> README.md
+
+      - name: Commit and Push changes
+        run: |
+          git config  user.name "github-actions[bot]"
+          git config  user.email "github-actions[bot]@users.noreply.github.com
+          git add README.md
+          git commit -m "docs: Auto-update README with latest log" || echo "No changes to commit"
+          git push
