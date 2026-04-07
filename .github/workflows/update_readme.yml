@@ -3,7 +3,7 @@ name: Update README with Latest Log
 on:
   push:
     paths:
-      - '*.md' # Only run when a new entry is pushed
+      - 'logs/*.md' # Only run when a new entry is pushed
 
 jobs:
   update-readme:
