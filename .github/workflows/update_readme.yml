@@ -5,6 +5,9 @@ on:
     paths:
       - 'logs/*.md' # Only run when a new entry is pushed
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
