@@ -1,24 +1,24 @@
 # Latest G.S.P. Log
-# Entry - 2026-04-08
+# Entry - 2026-04-09
 
 ## Goals
 - Apply for systems engineering roles (Target: June 2026)
 - Fitness: Purchase M-size shirts & Size-32 Pants (Target: August 2026)
-- Mandolin: Practice varisai (Target: June 2026)
+- Mandolin: Practice sarali varisai (Target: June 2026)
 
 ## Strategy
 - **Education:** Complete graduation requirements by June 2026.
 - **Academic:** Submit Graphics Lab-3 & Project-1 (Apr 20/Wk 7).
 - **Academic:** Submit Network Assessment-2 on time, attempt all.
-- **Physical:** Milestones (50 pushups, 20 list pushups, 10 pullups).
-- **Logistics:** House viewings before Apr 10 (Specs: rent, car park, stove).
+- **Physical:** Milestones (50 pushups, 20 list pushups, 10 pullups) by August 2026.
+- **Logistics:** House viewings before Apr 17 (Specs: rent, car park, stove).
 - **Licensing:** NSW Photo Card (Apr 10) | NSW DKT Exam (Apr 24).
 - **Education:** 15 Hackerrank problems by June 2026
 
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-| Computer graphics - import a wireframe , render using OpenGl's native MVP pipeline | ... Implement the main method on 9th. Get an animal on screen|
-| Visit Div after work | ✅ Shall call div on saturday to ask him if I can bring some food over |
-| Complete Computer networks tutorial - 3 | 🟥 Have not attempted this. I went shopping , had to cook and I only had time to work on computer graphics |
-| Gym and 2230 | 🟥 Did not go to the gym|
+| Computer graphics - import a wireframe , render using OpenGl's native MVP pipeline | _add_remarks_ |
+| Complete Computer networks lecture IP and TCP/UDP | _add_remarks_ |
+| Work @ 16:45 | _add_remarks_ |
+| Gym and 2230 | _add_remarks_|
