@@ -1,5 +1,5 @@
 # Latest G.S.P. Log
-# Entry - 2026-04-09
+# Entry - 2026-04-10
 
 ## Goals
 - Apply for systems engineering roles (Target: June 2026)
@@ -18,7 +18,6 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-| Computer graphics - import a wireframe , render using OpenGl's native MVP pipeline | ... Implemented drawing the sheep on the window . I have to merge sam's code and check the codebase again tomorrow morning for changes|
-| Complete Computer networks lecture IP and TCP/UDP | incomplete |
-| Work @ 16:45 | got back from work , have a hard time in getting back to studying |
-| Gym and 2230 | 🟥 Can't go becasue my membership is suspended... Shall have to do UberEats tomorrow to pay it off and start going again|
+| Uber Eats to fill up fuel to do more uber eats | Used UberEats to fill half a tank of fuel, helping me do more uber eats tomorrow|
+| Complete Computer networks lecture IP and TCP/UDP | Task not completed, Started playing video games after Group Project Meeting |
+| Attend Group Project Meeting | ✅ Attended Group Project Meeting |
