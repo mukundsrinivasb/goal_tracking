@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'logs/*.md' # Only changes
+      - 'images/*.*' # Only changes
   workflow_dispatch:
 
 jobs:
