@@ -1,0 +1,23 @@
+# Latest G.S.P. Log
+# Entry - 2026-04-10
+
+## Goals
+- Apply for systems engineering roles (Target: June 2026)
+- Fitness: Purchase M-size shirts & Size-32 Pants (Target: August 2026)
+- Mandolin: Practice sarali varisai (Target: June 2026)
+
+## Strategy
+- **Education:** Complete graduation requirements by June 2026.
+- **Academic:** Submit Graphics Lab-3 & Project-1 (Apr 20/Wk 7).
+- **Academic:** Submit Network Assessment-2 on time, attempt all.
+- **Physical:** Milestones (50 pushups, 20 list pushups, 10 pullups) by August 2026.
+- **Logistics:** House viewings before Apr 17 (Specs: rent, car park, stove).
+- **Licensing:** NSW Photo Card (Apr 10) | NSW DKT Exam (Apr 24).
+- **Education:** 15 Hackerrank problems by June 2026
+
+## Plan
+| Task | Remarks |
+| :--- | :--- |
+| Uber Eats to fill up fuel to do more uber eats | Used UberEats to fill half a tank of fuel, helping me do more uber eats tomorrow|
+| Complete Computer networks lecture IP and TCP/UDP | Task not completed, Started playing video games after Group Project Meeting |
+| Attend Group Project Meeting | ✅ Attended Group Project Meeting |
