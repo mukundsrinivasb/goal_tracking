@@ -1,0 +1,38 @@
+name: Validate Log Image
+
+on:
+  push:
+    paths:
+      - 'logs/*.md' # Only runs when a markdown file in the logs folder changes
+  workflow_dispatch:
+
+jobs:
+  audit-image:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Verify corresponding image exists
+        run: |
+          # Find the newest .md file
+          LATEST_LOG=$(ls logs/*.md 2>/dev/null | sort -r | head -1)
+          
+          if [[ -z "$LATEST_LOG" ]]; then
+            echo "No logs found to check."
+            exit 0
+          fi
+          
+          # Extract just the date (removes 'logs/' and '.md')
+          BASE_NAME=$(basename "$LATEST_LOG" .md)
+          
+          echo "Checking for image: images/$BASE_NAME.*"
+          
+          # Check if any file matches that base name with ANY extension
+          if ls images/"$BASE_NAME".* 1>/dev/null 2>&1; then
+            echo "✅ Success: Image found for log $BASE_NAME!"
+          else
+            echo "❌ Error: No matching image found for $BASE_NAME."
+            echo "Please ensure the original photo is uploaded to the images/ directory."
+            exit 1 # This command intentionally crashes the Action
+          fi
