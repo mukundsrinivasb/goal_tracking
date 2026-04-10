@@ -21,3 +21,4 @@
 | Uber Eats to fill up fuel to do more uber eats | ✅ Used UberEats to fill half a tank of fuel, helping me do more uber eats tomorrow|
 | Complete Computer networks lecture IP and TCP/UDP | 🟥 Task not completed, Started playing video games after Group Project Meeting |
 | Attend Group Project Meeting | ✅ Attended Group Project Meeting |
+| Implement Bounciness in CLab3 | 🟥 Task not completed, Started playing video games after Group Project Meeting |
