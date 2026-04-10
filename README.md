@@ -19,6 +19,6 @@
 | Task | Remarks |
 | :--- | :--- |
 | Computer graphics - import a wireframe , render using OpenGl's native MVP pipeline | ... Implemented drawing the sheep on the window . I have to merge sam's code and check the codebase again tomorrow morning for changes|
-| Complete Computer networks lecture IP and TCP/UDP | _add_remarks_ |
-| Work @ 16:45 | _add_remarks_ |
-| Gym and 2230 | Can't go becasue my membership is suspended... Shall have to do UberEats tomorrow to pay it off and start going again|
+| Complete Computer networks lecture IP and TCP/UDP | incomplete |
+| Work @ 16:45 | got back from work , have a hard time in getting back to studying |
+| Gym and 2230 | 🟥 Can't go becasue my membership is suspended... Shall have to do UberEats tomorrow to pay it off and start going again|
