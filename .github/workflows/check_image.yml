@@ -3,7 +3,7 @@ name: Validate Log Image
 on:
   push:
     paths:
-      - 'logs/*.md' # Only runs when a markdown file in the logs folder changes
+      - 'logs/*.md' # Only changes
   workflow_dispatch:
 
 jobs:
