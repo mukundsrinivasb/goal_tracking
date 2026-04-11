@@ -21,3 +21,4 @@
 | Implement Floor collision and bounce in CLab3 | _add_remarks_ |
 | Uber Eats for Service NSW and Gym | _add_remarks_ |
 | Complete Computer networks lecture IP and TCP/UDP | _add_remarks_ |
+| Dradt Show Cause , Look at the email , See all the points that can be addressed tomorrow | _add_remarks_ |
