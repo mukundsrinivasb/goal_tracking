@@ -18,7 +18,7 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-| Implement Floor collision and bounce in CLab3 | _add_remarks_ |
+| Implement Floor collision and bounce in CLab3 | ...Implemented bounce and some horizontal movement, shall have to implement some idea of mass... |
 | Uber Eats for Service NSW and Gym | _add_remarks_ |
 | Complete Computer networks lecture IP and TCP/UDP | _add_remarks_ |
 | Dradt Show Cause , Look at the email , See all the points that can be addressed tomorrow | _add_remarks_ |
