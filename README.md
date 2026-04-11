@@ -1,5 +1,5 @@
 # Latest G.S.P. Log
-# Entry - 2026-04-10
+# Entry - 2026-04-11
 
 ## Goals
 - Apply for systems engineering roles (Target: June 2026)
@@ -12,13 +12,12 @@
 - **Academic:** Submit Network Assessment-2 on time, attempt all.
 - **Physical:** Milestones (50 pushups, 20 fist pushups, 10 pullups) by August 2026.
 - **Logistics:** House viewings before Apr 17 (Specs: rent, car park, stove).
-- **Licensing:** NSW Photo Card (Apr 10) | NSW DKT Exam (Apr 24).
+- **Licensing:** NSW Photo Card (Apr 13) | NSW DKT Exam (Apr 24).
 - **Education:** 15 Hackerrank problems by June 2026
 
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-| Uber Eats to fill up fuel to do more uber eats | ✅ Used UberEats to fill half a tank of fuel, helping me do more uber eats tomorrow|
-| Complete Computer networks lecture IP and TCP/UDP | 🟥 Task not completed, Started playing video games after Group Project Meeting |
-| Attend Group Project Meeting | ✅ Attended Group Project Meeting |
-| Implement Bounciness in CLab3 | 🟥 Task not completed, Started playing video games after Group Project Meeting |
+| Implement Floor collision and bounce in CLab3 | _add_remarks_ |
+| Uber Eats for Service NSW and Gym | _add_remarks_ |
+| Complete Computer networks lecture IP and TCP/UDP | _add_remarks_ |
