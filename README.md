@@ -18,7 +18,8 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-| Implement Floor collision and bounce in CLab3 | ...Implemented bounce and some horizontal movement, shall have to implement some idea of mass... |
-| Uber Eats for Service NSW and Gym | ... Made some 60 Dollars off 4 Orders doing Uber Eats |
-| Complete Computer networks lecture IP and TCP/UDP | incomplete |
-| Dradt Show Cause , Look at the email , See all the points that can be addressed tomorrow | incomplete |
+| Save the heirarchical model locally , then use that to rasterize on screen, use main.cpp as the driver | _add_remarks_ |
+| Implement friction, increasing the size of the ball should increase the restitution factor | _add_remarks_ |
+| Uber Eats for Service NSW and Petrol from 6PM | _add_remarks_ |
+| Complete Computer networks TCP/UDP | _add_remarks_ |
+| Dradt Show Cause , Look at the email , See all the points that can be addressed tomorrow | _add_remarks_ |
