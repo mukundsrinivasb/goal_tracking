@@ -18,7 +18,7 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-| Save the heirarchical model locally , then use that to rasterize on screen, use main.cpp as the driver | _add_remarks_ |
+| Save the heirarchical model locally , then use that to rasterize on screen, use main.cpp as the driver | ... The model of the dog now looks good , now we have to make the camera moveable as per user input so that its easier for the user to see all the limbs of the dog |
 | Implement friction, increasing the size of the ball should increase the restitution factor | _add_remarks_ |
 | Uber Eats for Service NSW and Petrol from 6PM | _add_remarks_ |
 | Complete Computer networks TCP/UDP | _add_remarks_ |
