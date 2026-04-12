@@ -6,6 +6,9 @@ on:
       - 'logs/*.md' # Only runs when a log file is added or modified
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   calculate-days:
     runs-on: ubuntu-latest
