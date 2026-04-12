@@ -23,3 +23,6 @@
 | Uber Eats for Service NSW and Petrol from 6PM | ... Worked for 3 hours , paid for petrol, still have to make about 100 for Service NSW |
 | Complete Computer networks TCP/UDP | _add_remarks_ |
 | Dradt Show Cause , Look at the email , See all the points that can be addressed tomorrow | _add_remarks_ |
+
+## Number of days until reflection
+18
