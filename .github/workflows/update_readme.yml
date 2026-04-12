@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'logs/*.md' # Only run when a new entry is pushed
+  workflow_dispatch:
 
 permissions:
   contents: write
