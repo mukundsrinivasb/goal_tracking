@@ -56,3 +56,8 @@ jobs:
           #9. Write the number of days remaining until reflection to the readme.md
           echo -e "\n## Number of days until reflection\n$days_remaining">>README.md
 
+          git config  user.name "github-actions[bot]@users.noreply.github.com"
+          git config  user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "docs: Auto-update README with number of days toreflection" || echo "No changes to commit"
+          git push
