@@ -50,3 +50,6 @@ jobs:
           echo "- **Log Date:** $parsed_date" >> $GITHUB_STEP_SUMMARY
           echo "- **End of Month:** $last_day" >> $GITHUB_STEP_SUMMARY
           echo "- **Days Remaining:** $days_remaining days" >> $GITHUB_STEP_SUMMARY
+          #9. Write the number of days remaining until reflection to the readme.md
+          echo -e "\n## Number of days until reflection\n$days_remaining">>README.md
+
