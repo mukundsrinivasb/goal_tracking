@@ -20,5 +20,6 @@
 | :--- | :--- |
 | Attend Associate Dean's Meeting for show cause | attended meeting , shall have to include points mentioned |
 | Uber Eats for Service NSW from 11:30 AM | _add_remarks_ |
-| Service NSW Photo Card at 3:00 PM , Queanbean | _add_remarks_ |
-| Work @ 8:30 PM | _add_remarks_ |
+
+## Number of days until reflection
+17
