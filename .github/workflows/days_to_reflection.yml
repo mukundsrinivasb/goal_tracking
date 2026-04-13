@@ -54,6 +54,8 @@ jobs:
           echo "- **End of Month:** $last_day" >> $GITHUB_STEP_SUMMARY
           echo "- **Days Remaining:** $days_remaining days" >> $GITHUB_STEP_SUMMARY
           #9. Write the number of days remaining until reflection to the readme.md
+          sed -i '$d' README.md || true
+          sed -i '$d' README.md || true
           echo -e "\n## Number of days until reflection\n$days_remaining">>README.md
 
           git config  user.name "github-actions[bot]@users.noreply.github.com"
