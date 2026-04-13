@@ -1,7 +1,10 @@
 name: Days Remaining to write a reflection
 
 on:
-  push:
+  workflow_run:
+    workflows: ["Update README"]
+    types:
+      - completed
     paths:
       - 'logs/*.md' # Only runs when a log file is added or modified
   workflow_dispatch:
