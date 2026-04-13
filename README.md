@@ -1,5 +1,5 @@
 # Latest G.S.P. Log
-# Entry - 2026-04-12
+# Entry - 2026-04-13
 
 ## Goals
 - Apply for systems engineering roles (Target: June 2026)
@@ -18,8 +18,7 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-| Save the heirarchical model locally , then use that to rasterize on screen, use main.cpp as the driver | ... The model of the dog now looks good , now we have to make the camera moveable as per user input so that its easier for the user to see all the limbs of the dog |
-| Implement friction, increasing the size of the ball should increase the restitution factor | incomplete |
-| Uber Eats for Service NSW and Petrol from 6PM | ... Worked for 3 hours , paid for petrol, still have to make about 100 for Service NSW |
-| Complete Computer networks TCP/UDP | incomplete |
-| Dradt Show Cause , Look at the email , See all the points that can be addressed tomorrow | incomplete |
+| Attend Associate Dean's Meeting for show cause | attended meeting , shall have to include points mentioned |
+| Uber Eats for Service NSW from 11:30 AM | _add_remarks_ |
+| Service NSW Photo Card at 3:00 PM , Queanbean | _add_remarks_ |
+| Work @ 8:30 PM | _add_remarks_ |
