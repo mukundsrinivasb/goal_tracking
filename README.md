@@ -20,10 +20,7 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-| Computer Networks T4a and T4b , Look at questions on PeerWise , Ask Questions on Peerwise | _add_remarks_ |
-| Computer Networks T-3 Programming | _add_remarks_ |
-| Work @ 8:30 PM | _add_remarks_ |
-| Uber Eats for Service NSW from 15:00 PM | _add_remarks_ |
-
-## Number of days until reflection
-16
+| Computer Networks T4a and T4b , Look at questions on PeerWise , Ask Questions on Peerwise | incomplete |
+| Computer Networks T-3 Programming | incomplete |
+| Work @ 8:30 PM | incomplete |
+| Uber Eats for Service NSW from 15:00 PM | incomplete |
