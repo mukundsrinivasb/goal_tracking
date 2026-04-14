@@ -24,3 +24,6 @@
 | Computer Networks T-3 Programming | _add_remarks_ |
 | Work @ 8:30 PM | _add_remarks_ |
 | Uber Eats for Service NSW from 15:00 PM | _add_remarks_ |
+
+## Number of days until reflection
+16
