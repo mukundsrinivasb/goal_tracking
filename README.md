@@ -7,21 +7,20 @@
 - Mandolin: Practice sarali varisai (Target: June 2026)
 
 ## Strategy
-- **Education:** Complete graduation requirements by June 2026.
-- **Academic:** Submit Graphics Lab-3 & Project-1 (Apr 20/Wk 7).
-- **Academic:** Submit Network Assessment-2 on time, attempt all.
-- **Physical:** Milestones (50 pushups, 20 fist pushups, 10 pullups) by August 2026.
-- **Logistics:** House viewings before Apr 17 (Specs: rent, car park, stove).
-- **Licensing:** NSW Photo Card (Apr 13) | NSW DKT Exam (Apr 24).
-- **Education:** 15 Hackerrank problems by June 2026
+- Complete graduation requirements by June 2026.
+- Submit Computer Graphics Lab-3 & Project-1 (Apr 20/Wk 7).
+- Complete Computer Networks Tute - 3 Programming , Tute - 4 , and Tute - 5 Programming Before 19th April .
+- Milestones (50 pushups, 20 fist pushups, 10 pullups) by August 2026.
+- Save Money for Service NSW Id Card by 14th April.
+- DataAnnotation for 300 USD before 20th April.
+- House viewings before Apr 17 (Specs: rent, car park, stove).
+- NSW Photo Card (Apr 13) | NSW DKT Exam (Apr 24).
+- 15 Hackerrank problems by June 2026.
 
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-| Attend Associate Dean's Meeting for show cause | attended meeting , shall have to include points mentioned |
-| Uber Eats for Service NSW from 11:30 AM | incomplete |
-| Service NSW Photo Card at 3:00 PM , Queanbean | incomplete |
-| Work @ 8:30 PM | incomplete |
-
-## Number of days until reflection
-17
+| Computer Networks T4a and T4b , Look at questions on PeerWise , Ask Questions on Peerwise | _add_remarks_ |
+| Computer Networks T-3 Programming | _add_remarks_ |
+| Work @ 8:30 PM | _add_remarks_ |
+| Uber Eats for Service NSW from 15:00 PM | _add_remarks_ |
