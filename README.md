@@ -24,8 +24,5 @@
 | Tomato Soup @ 1600 | ✅ Done, the soup was a bit spicy , perhaps reduce the amount of chilly powder |
 | House Viewings from 1730 | ... , I like the house on 1 Grazier Lane |
 | Music Class @ 2030| Did not happen because mam had a doctor's appointment |
-| CLab3 Implement throwing from a height, friction | _add_remarks_ |
-| Data Annotation @  | _add_remarks_ |
-
-## Number of days until reflection
-15
+| CLab3 Implement throwing from a height, friction | incomplete |
+| Data Annotation @  | incomplete |
