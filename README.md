@@ -3,14 +3,14 @@
 
 ## Goals
 - Apply for systems engineering roles (Target: June 2026)
-- Fitness: Purchase M-size shirts & Size-32 Pants (Target: August 2026)
+- Purchase M-size shirts & Size-32 Pants (Target: August 2026)
 - Mandolin: Practice sarali varisai (Target: June 2026)
 
 ## Strategy
-- Complete graduation requirements by June 2026.
+- Graduate by June 2026.
 - Submit Computer Graphics Lab-3 & Project-1 (Apr 20/Wk 7).
 - Complete Computer Networks Tute - 3 Programming , Tute - 4 , and Tute - 5 Programming Before 19th April .
-- Milestones (50 pushups, 20 fist pushups, 10 pullups) by August 2026.
+- 50 pushups, 20 fist pushups, 10 pullups by August 2026.
 - Save Money for Service NSW Id Card by 14th April.
 - DataAnnotation for 300 USD before 20th April.
 - House viewings before Apr 17 (Specs: rent, car park, stove).
@@ -20,10 +20,9 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-| Computer Networks T4a and T4b , Look at questions on PeerWise , Ask Questions on Peerwise | incomplete |
-| Computer Networks T-3 Programming | incomplete |
-| Work @ 8:30 PM | incomplete |
-| Uber Eats for Service NSW from 15:00 PM | incomplete |
-
-## Number of days until reflection
-16
+| NSW Photo Card @ 1300 | _add_remarks_ |
+| Tomato Soup @ 1600 | _add_remarks_ |
+| House Viewings from 1730 | _add_remarks_ |
+| Music Class @ 2030| _add_remarks_ |
+| CLab3 Implement throwing from a height, friction | _add_remarks_ |
+| Data Annotation @  | _add_remarks_ |
