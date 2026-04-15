@@ -26,3 +26,6 @@
 | Music Class @ 2030| _add_remarks_ |
 | CLab3 Implement throwing from a height, friction | _add_remarks_ |
 | Data Annotation @  | _add_remarks_ |
+
+## Number of days until reflection
+15
