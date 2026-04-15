@@ -20,12 +20,9 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-| NSW Photo Card @ 1300 | _add_remarks_ |
+| NSW Photo Card @ 1300 | ✅ Done , shall be mailed to the address in 15 Working Days |
 | Tomato Soup @ 1600 | _add_remarks_ |
 | House Viewings from 1730 | _add_remarks_ |
 | Music Class @ 2030| _add_remarks_ |
 | CLab3 Implement throwing from a height, friction | _add_remarks_ |
 | Data Annotation @  | _add_remarks_ |
-
-## Number of days until reflection
-15
