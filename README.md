@@ -24,3 +24,6 @@
 | Work @ 1645 | Done |
 | Update Bond Money timeline to the new landlord | incomplete |
 | CLab3 Implement throwing from a height, friction | incomplete |
+
+## Number of days until reflection
+14
