@@ -19,11 +19,8 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-| Import all course material for computer networks into Notebook LM. Research what a gopher server is | _add_remarks_ |
+| Import all course material for computer networks into Notebook LM. Research what a gopher server is | incomplete |
 | Send VNs to appa appraising him of moving houses and Uni Fees | I've updated appa about moving houses , Shall have to make it clearer |
 | Work @ 1645 | Done |
-| Update Bond Money timeline to the new landlord | _add_remarks_ |
-| CLab3 Implement throwing from a height, friction | _add_remarks_ |
-
-## Number of days until reflection
-14
+| Update Bond Money timeline to the new landlord | incomplete |
+| CLab3 Implement throwing from a height, friction | incomplete |
