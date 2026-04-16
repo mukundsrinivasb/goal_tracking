@@ -24,3 +24,6 @@
 | Work @ 1645 | _add_remarks_ |
 | Update Bond Money timeline to the new landlord | _add_remarks_ |
 | CLab3 Implement throwing from a height, friction | _add_remarks_ |
+
+## Number of days until reflection
+14
