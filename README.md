@@ -22,3 +22,6 @@
 | Read about gophe client , and basic specs of the software..Explore Socket programming from tute  - 5 | ... Figured out that I do not have the foundational knowledge to implement a gopher client , I shall start with UDP and TCP labs before moving on to working on the assignment |
 | Work @ 1445 | Completed work, Had KFC before work which I am not proud of |
 | Update Bond Money timeline to the new landlord | Talked to him in the morning , Shall give him a call tomorrow and sort things out |
+
+## Number of days until reflection
+13
