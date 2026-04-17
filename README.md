@@ -20,8 +20,5 @@
 | Task | Remarks |
 | :--- | :--- |
 | Read about gophe client , and basic specs of the software..Explore Socket programming from tute  - 5 | _add_remarks_ |
-| Work @ 1445 | Done |
+| Work @ 1445 | _add_remarks_ |
 | Update Bond Money timeline to the new landlord | _add_remarks_ |
-
-## Number of days until reflection
-13
