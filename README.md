@@ -22,3 +22,6 @@
 | Review T4b before 1:15 | incomplete |
 | visit Isha and Divyang , Come back before 4:30 PM | incomplete |
 | Implement Lab 5, Computer Networks | incomplete |
+
+## Number of days until reflection
+12
