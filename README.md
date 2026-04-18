@@ -1,5 +1,5 @@
 # Latest G.S.P. Log
-# Entry - 2026-04-17
+# Entry - 2026-04-18
 
 ## Goals
 - Apply for systems engineering roles (Target: June 2026)
@@ -19,9 +19,6 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-| Read about gophe client , and basic specs of the software..Explore Socket programming from tute  - 5 | ... Figured out that I do not have the foundational knowledge to implement a gopher client , I shall start with UDP and TCP labs before moving on to working on the assignment |
-| Work @ 1445 | Completed work, Had KFC before work which I am not proud of |
-| Update Bond Money timeline to the new landlord | Talked to him in the morning , Shall give him a call tomorrow and sort things out |
-
-## Number of days until reflection
-13
+| Review T4b before 1:15 | _add_remarks_ |
+| visit Isha and Divyang , Come back before 4:30 PM | _add_remarks_ |
+| Implement Lab 5, Computer Networks | _add_remarks_ |
