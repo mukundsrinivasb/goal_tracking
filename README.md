@@ -20,10 +20,7 @@
 | Task | Remarks |
 | :--- | :--- |
 | Computer Graphics Complete Implementing Horizontal throws | ... Implemented Horizontal Throws |
-| Computer Graphics Note , start writing report for task1 | _add_remarks_ |
-| Gym , Visit Vikram and Div , return before 1900 | _add_remarks_ |
-| Computer Networks tutorial week - 2 : UDP | _add_remarks_ |
+| Computer Graphics Note , start writing report for task1 | ... Started working on task2 , Shall ask about task1 at the lab sesh tomorrow |
+| Gym , Visit Vikram and Div , return before 1900 | Did not gym , neither Div and Vikram |
+| Computer Networks tutorial week - 2 : UDP | Implemented Q1 and Q2 |
 | Computer Networks Assignment , read through specs | _add_remarks_ |
-
-## Number of days until reflection
-11
