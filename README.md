@@ -24,3 +24,6 @@
 | Gym , Visit Vikram and Div , return before 1900 | _add_remarks_ |
 | Computer Networks tutorial week - 2 : UDP | _add_remarks_ |
 | Computer Networks Assignment , read through specs | _add_remarks_ |
+
+## Number of days until reflection
+11
