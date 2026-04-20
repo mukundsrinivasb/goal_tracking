@@ -20,10 +20,8 @@
 | Task | Remarks |
 | :--- | :--- |
 | UberEats Until 12 | Done, Filled up petrol |
+| Music Practice | Done |
 | Computer Graphics Group Project , Animate the animal , Draw the Floor | _add_remarks_ |
 | Computer Networks Assignment - 2 : Implement Question 1 | _add_remarks_ |
 | Gym | 2230 |
 | Computer Graphics : CLab-3, Render the room and the sphere | _add_remarks_ |
-
-## Number of days until reflection
-10
