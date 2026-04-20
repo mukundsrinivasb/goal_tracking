@@ -1,5 +1,5 @@
 # Latest G.S.P. Log
-# Entry - 2026-04-19
+# Entry - 2026-04-20
 
 ## Goals
 - Apply for systems engineering roles (Target: June 2026)
@@ -19,11 +19,8 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-| Computer Graphics Complete Implementing Horizontal throws | ... Implemented Horizontal Throws |
-| Computer Graphics Note , start writing report for task1 | ... Started working on task2 , Shall ask about task1 at the lab sesh tomorrow |
-| Gym , Visit Vikram and Div , return before 1900 | Did not gym , neither Div and Vikram |
-| Computer Networks tutorial week - 2 : UDP | Implemented Q1 and Q2 |
-| Computer Networks Assignment , read through specs | incomplete |
-
-## Number of days until reflection
-11
+| UberEats Until 12 | _add_remarks_ |
+| Computer Graphics Group Project , Animate the animal , Draw the Floor | _add_remarks_ |
+| Computer Networks Assignment - 2 : Implement Question 1 | _add_remarks_ |
+| Gym | 2230 |
+| Computer Graphics : CLab-3, Render the room and the sphere | _add_remarks_ |
