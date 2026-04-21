@@ -20,10 +20,7 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-| Computer Networks Assignment - 2 : Implement Question 1 | _add_remarks_ |
-| Gym | 1445 |
-| Work | 1545 |
+| Computer Networks Assignment - 2 : Implement Question 1 | Working on question 3 , Shall examine the packets from a server tomorrow and start implementing reading these packets |
+| Gym | 1445 not Done |
+| Work | 1545 Done |
 | Computer Graphics : CLab-3, Render the room and the sphere | _add_remarks_ |
-
-## Number of days until reflection
-9
