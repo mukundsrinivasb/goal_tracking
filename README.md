@@ -24,3 +24,6 @@
 | Gym | 1445 not Done |
 | Work | 1545 Done |
 | Computer Graphics : CLab-3, Render the room and the sphere | _add_remarks_ |
+
+## Number of days until reflection
+9
