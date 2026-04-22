@@ -1,5 +1,5 @@
 # Latest G.S.P. Log
-# Entry - 2026-04-21
+# Entry - 2026-04-22
 
 ## Goals
 - Apply for systems engineering roles (Target: June 2026)
@@ -20,10 +20,8 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-| Computer Networks Assignment - 2 : Implement Question 1 | Working on question 3 , Shall examine the packets from a server tomorrow and start implementing reading these packets |
-| Gym | 1445 not Done |
-| Work | 1545 Done |
-| Computer Graphics : CLab-3, Render the room and the sphere | incomplete |
-
-## Number of days until reflection
-9
+| Uni @ 1245 | _add_remarks_ |
+| Attend Computer Graphics Tutorial @ 1600 , Fix Task1 main loop , Render the room and the sphere | _add_remarks_ |
+| Attend Computer Networks Tutorial @ 1300 , Ask Questions about Question 2 and what to have in the gopher server | _add_remarks_ |
+| Music Class from 1930 - 2000 | _add_remarks_ |
+| Data Annotation 2030 - 2230 | _add_remarks_ |
