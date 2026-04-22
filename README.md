@@ -25,3 +25,6 @@
 | Attend Computer Networks Tutorial @ 1300 , Ask Questions about Question 2 and what to have in the gopher server | _add_remarks_ |
 | Music Class from 1930 - 2000 | _add_remarks_ |
 | Data Annotation 2030 - 2230 | _add_remarks_ |
+
+## Number of days until reflection
+8
