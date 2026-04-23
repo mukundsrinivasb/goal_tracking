@@ -28,3 +28,6 @@
 | Computer Graphics Draw the floor and the walls , task2 @ before 2200 | Set up the screen , shall complete the implementation and render it tomorrow |
 | Gym @ 2200 | A small session at the gym, will have to increase the frequency of my sessions |
 | Computer Graphics Group project , add some links to the scene from @2330 | incomplete |
+
+## Number of days until reflection
+7
