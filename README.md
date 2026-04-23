@@ -21,13 +21,10 @@
 | Task | Remarks |
 | :--- | :--- |
 | Computer Networks Gopher Client Task 2 : follow all references on the server , measure file characteristics @ before 1400 | Ended up spending more time than needed , coming up with ideas , will have to jot them down |
-| Food @ 1200 | _add_remarks_ |
-| Data Annotation @ 1400 - 1600 | _add_remarks_ |
-| Lunch @ 1600 | _add_remarks_ |
+| Food @ 1200 | Done |
+| Data Annotation @ 1400 - 1600 | Not a lot of money |
+| Lunch @ 1600 | Done |
 | Practice Varnams , 3 takes 2 different speeds with talam @ 1700 | _add_remarks_ |
 | Computer Graphics Draw the floor and the walls , task2 @ before 2200 | _add_remarks_ |
 | Gym @ 2200 | _add_remarks_ |
 | Computer Graphics Group project , add some links to the scene from @2330 | _add_remarks_ |
-
-## Number of days until reflection
-7
