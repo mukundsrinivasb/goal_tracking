@@ -27,3 +27,6 @@
 | Computer Graphics Graw the floor and the walls , task2 | _add_remarks_ |
 | Gym @ 2230 | _add_remarks_ |
 | Computer Graphics Group project , add some links to the scene | _add_remarks_ |
+
+## Number of days until reflection
+7
