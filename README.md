@@ -1,5 +1,5 @@
 # Latest G.S.P. Log
-# Entry - 2026-04-23
+# Entry - 2026-04-24
 
 ## Goals
 - Apply for systems engineering roles (Target: June 2026)
@@ -20,14 +20,6 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-| Computer Networks Gopher Client Task 2 : follow all references on the server , measure file characteristics @ before 1400 | Ended up spending more time than needed , coming up with ideas , will have to jot them down |
-| Food @ 1200 | Done |
-| Data Annotation @ 1400 - 1600 | Not a lot of money |
-| Lunch @ 1600 | Done |
-| Practice Varnams , 3 takes 2 different speeds with talam @ 1700 | I practiced varnams in two different speeds with 3 takes |
-| Computer Graphics Draw the floor and the walls , task2 @ before 2200 | Set up the screen , shall complete the implementation and render it tomorrow |
-| Gym @ 2200 | A small session at the gym, will have to increase the frequency of my sessions |
-| Computer Graphics Group project , add some links to the scene from @2330 | incomplete |
-
-## Number of days until reflection
-7
+| UberEats @ till 1400 | _add_remarks_ |
+| Coles @ till 1945 | _add_remarks_ |
+| Computer Graphics Draw the floor and the walls , task2 @ 2200 | _add_remarks_ |
