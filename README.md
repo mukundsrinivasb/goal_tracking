@@ -1,5 +1,5 @@
 # Latest G.S.P. Log
-# Entry - 2026-04-22
+# Entry - 2026-04-23
 
 ## Goals
 - Apply for systems engineering roles (Target: June 2026)
@@ -20,11 +20,10 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-| Uni @ 1245 | Went to uni , Had a load of fun |
-| Attend Computer Graphics Tutorial @ 1600 , Fix Task1 main loop , Render the room and the sphere | Fixed task 1 main loop , but did not get to implment a sphere |
-| Attend Computer Networks Tutorial @ 1300 , Ask Questions about Question 2 and what to have in the gopher server | I didn't ask questions about question 2 , Instead I ended up spending all of my time on the tutorial for this week |
-| Music Class from 1930 - 2000 | Attended the music class |
-| Data Annotation 2030 - 2230 | Did not attempt , Was busy watching youtube |
-
-## Number of days until reflection
-8
+| Computer Networks Gopher Client Task 2 : follow all references on the server , measure file characteristics @ before 1400 | _add_remarks_ |
+| Food @ 1200 | _add_remarks_ |
+| Data Annotation @ 1400 - 1600 | _add_remarks_ |
+| Lunch @ 1600 | _add_remarks_ |
+| Computer Graphics Graw the floor and the walls , task2 | _add_remarks_ |
+| Gym @ 2230 | _add_remarks_ |
+| Computer Graphics Group project , add some links to the scene | _add_remarks_ |
