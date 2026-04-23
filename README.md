@@ -28,3 +28,6 @@
 | Computer Graphics Draw the floor and the walls , task2 @ before 2200 | _add_remarks_ |
 | Gym @ 2200 | _add_remarks_ |
 | Computer Graphics Group project , add some links to the scene from @2330 | _add_remarks_ |
+
+## Number of days until reflection
+7
