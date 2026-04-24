@@ -22,7 +22,4 @@
 | :--- | :--- |
 | UberEats @ till 1400 | Made some 110 Dollars |
 | Coles @ till 1945 | Done , fun times! |
-| Computer Graphics Draw the floor and the walls , task2 @ 2200 | _add_remarks_ |
-
-## Number of days until reflection
-6
+| Computer Graphics Draw the floor and the walls , task2 @ 2200 | incomplete |
