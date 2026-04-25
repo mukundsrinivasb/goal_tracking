@@ -26,5 +26,6 @@
 | UberEats @ from 1615 | _add_remarks_ |
 | Computer Graphics @ 2300 | _add_remarks_ |
 
+
 ## Number of days until reflection
 5
