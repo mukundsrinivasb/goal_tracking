@@ -20,12 +20,8 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-| Computer Graphics Draw the floor and the walls , task2 @ 1030 | _add_remarks_ |
-| Lunch @ 1330 | _add_remarks_ |
-| Computer Graphics Start writing report task 1 @ 1330 | _add_remarks_ |
-| UberEats @ from 1615 | _add_remarks_ |
-| Computer Graphics @ 2300 | _add_remarks_ |
-
-
-## Number of days until reflection
-5
+| Computer Graphics Draw the floor and the walls , task2 @ 1030 | incomplete |
+| Lunch @ 1330 | incomplete |
+| Computer Graphics Start writing report task 1 @ 1330 | incomplete |
+| UberEats @ from 1615 | incomplete |
+| Computer Graphics @ 2300 | incomplete |
