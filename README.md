@@ -1,5 +1,5 @@
 # Latest G.S.P. Log
-# Entry - 2026-04-24
+# Entry - 2026-04-25
 
 ## Goals
 - Apply for systems engineering roles (Target: June 2026)
@@ -20,9 +20,8 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-| UberEats @ till 1400 | Made some 110 Dollars |
-| Coles @ till 1945 | Done , fun times! |
-| Computer Graphics Draw the floor and the walls , task2 @ 2200 | incomplete |
-
-## Number of days until reflection
-6
+| Computer Graphics Draw the floor and the walls , task2 @ 1030 | _add_remarks_ |
+| Lunch @ 1330 | _add_remarks_ |
+| Computer Graphics Start writing report task 1 @ 1330 | _add_remarks_ |
+| UberEats @ from 1615 | _add_remarks_ |
+| Computer Graphics @ 2300 | _add_remarks_ |
