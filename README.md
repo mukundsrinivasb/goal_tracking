@@ -25,3 +25,6 @@
 | Computer Graphics Start writing report task 1 @ 1330 | _add_remarks_ |
 | UberEats @ from 1615 | _add_remarks_ |
 | Computer Graphics @ 2300 | _add_remarks_ |
+
+## Number of days until reflection
+5
