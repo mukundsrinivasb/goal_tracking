@@ -20,10 +20,7 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-| Computer Graphics Start writing report task 1 @ 1330 | _add_remarks_ |
+| Computer Graphics Start writing report task 1 @ 1330 | Started writing setup stuff and shall move  |
 | Computer Graphics Group Project , Add lighting , change color of the floor @ 1500 | _add_remarks_ |
 | UberEats @ from 1615 | _add_remarks_ |
 | Computer Graphics Draw the floor and the walls , task2 @ 2330 | _add_remarks_ |
-
-## Number of days until reflection
-4
