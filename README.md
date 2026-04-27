@@ -1,5 +1,5 @@
 # Latest G.S.P. Log
-# Entry - 2026-04-26
+# Entry - 2026-04-27
 
 ## Goals
 - Apply for systems engineering roles (Target: June 2026)
@@ -20,10 +20,6 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-| Computer Graphics Start writing report task 1 @ 1330 | Started writing setup stuff and shall move  |
-| Computer Graphics Group Project , Add lighting , change color of the floor @ 1500 | incomplete |
-| UberEats @ from 1615 | incomplete |
-| Computer Graphics Draw the floor and the walls , task2 @ 2330 | incomplete |
-
-## Number of days until reflection
-4
+| Computer Graphics Submit report task 1 @ 1330 | _add_remarks_
+| Work @ from 1615 | _add_remarks_ |
+| Computer Netoworks, Divide Task2 into subtask , work on three subtasks @ 2300 | _add_remarks_ |
