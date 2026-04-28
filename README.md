@@ -20,8 +20,5 @@
 | Task | Remarks |
 | :--- | :--- |
 | Submit Show cause @ 1430 | Done and sent |
-| Work @ from 1445 | _add_remarks_ |
-| Computer Netoworks, Divide Task2 into subtask , work on three subtasks @ 2300 | _add_remarks_ |
-
-## Number of days until reflection
-2
+| Work @ from 1445 | incomplete |
+| Computer Netoworks, Divide Task2 into subtask , work on three subtasks @ 2300 | incomplete |
