@@ -1,5 +1,5 @@
 # Latest G.S.P. Log
-# Entry - 2026-04-27
+# Entry - 2026-04-28
 
 ## Goals
 - Apply for systems engineering roles (Target: June 2026)
@@ -8,21 +8,17 @@
 
 ## Strategy
 - Graduate by June 2026.
-- Submit Computer Graphics Lab-3 (Apr 25).
-- Submit Computer Graphics Project-1 (May 1).
 - Submit Computer Networks Assignment 2 - Gopher Client by April 28th 
+- Submit Computer Graphics Project-1 (May 1).
 - Fix Sleep schedule , Sleep by 0100 , Wake up by 0900.
-- DataAnnotation for 300 USD before 3rd May.
+- DataAnnotation for 300 USD before 7th May.
 - Progress to 50 Pushups , 20 Fist Pushups , 10 Pullups by August 2026.
-- NSW DKT Exam (Apr 30th).
+- NSW DKT Exam (7th May).
 - 15 Hackerrank problems by June 2026.
 
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-| Computer Graphics Submit report task 1 @ 1330 | incomplete
-| Work @ from 1615 | incomplete |
-| Computer Netoworks, Divide Task2 into subtask , work on three subtasks @ 2300 | incomplete |
-
-## Number of days until reflection
-3
+| Submit Show cause @ 1430 | _add_remarks_
+| Work @ from 1445 | _add_remarks_ |
+| Computer Netoworks, Divide Task2 into subtask , work on three subtasks @ 2300 | _add_remarks_ |
