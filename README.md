@@ -1,5 +1,5 @@
 # Latest G.S.P. Log
-# Entry - 2026-04-28
+# Entry - 2026-04-29
 
 ## Goals
 - Apply for systems engineering roles (Target: June 2026)
@@ -8,7 +8,7 @@
 
 ## Strategy
 - Graduate by June 2026.
-- Submit Computer Networks Assignment 2 - Gopher Client by April 28th 
+- Submit Computer Networks Assignment 2 - Gopher Client by April 30th 
 - Submit Computer Graphics Project-1 (May 1).
 - Fix Sleep schedule , Sleep by 0100 , Wake up by 0900.
 - DataAnnotation for 300 USD before 7th May.
@@ -19,9 +19,6 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-| Submit Show cause @ 1430 | Done and sent |
-| Work @ from 1445 | incomplete |
-| Computer Netoworks, Divide Task2 into subtask , work on three subtasks @ 2300 | incomplete |
-
-## Number of days until reflection
-2
+|Computer Networks Task2 and Task3 till 1730 | _add_remarks_ |
+| UberEats @ from 1730 | _add_remarks_ |
+|Computer Networks Task2 and Task3 report after 2300 | _add_remarks_ |
