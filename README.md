@@ -1,5 +1,5 @@
 # Latest G.S.P. Log
-# Entry - 2026-04-29
+# Entry - 2026-04-30
 
 ## Goals
 - Apply for systems engineering roles (Target: June 2026)
@@ -19,9 +19,6 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-|Computer Networks Task2 and Task3 till 1730 | incomplete |
-| UberEats @ from 1730 | incomplete |
-|Computer Networks Task2 and Task3 report after 2300 | incomplete |
-
-## Number of days until reflection
-1
+|Computer Networks Task2 and Task3 till 1430 | _add_remarks_ |
+| Coles @ from 1515 | _add_remarks_ |
+|Computer Networks Task2 and Task3 report after 2300 | _add_remarks_ |
