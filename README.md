@@ -1,6 +1,6 @@
 # Latest G.S.P. Log
 
-# Entry - 2026-04-30
+# Entry - 2026-05-01
 
 ## Goals
 - Apply for systems engineering roles (Target: June 2026)
@@ -22,6 +22,3 @@
 |Computer Networks Implement link following and file download | _add_remarks_ |
 |Computer Networks report after 1200 , draft submission | _add_remarks_ |
 | Coles @ from 1530 | _add_remarks_ |
-
-## Number of days until reflection
-30
