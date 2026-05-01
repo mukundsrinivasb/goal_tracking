@@ -3,8 +3,8 @@ name: Validate Log Image
 on:
   push:
     paths:
-      - 'logs/*.md' # Only changes
-      - 'images/*.*' # Only changes
+      - 'logs/*.md'
+      - 'images/*.*'
   workflow_dispatch:
 
 jobs:
@@ -14,26 +14,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
       - name: Verify corresponding image exists
-        run: |
-          # Find the newest .md file
-          LATEST_LOG=$(ls logs/*.md 2>/dev/null | sort -r | head -1)
-          
-          if [[ -z "$LATEST_LOG" ]]; then
-            echo "No logs found to check."
-            exit 0
-          fi
-          
-          # Extract just the date (removes 'logs/' and '.md')
-          BASE_NAME=$(basename "$LATEST_LOG" .md)
-          
-          echo "Checking for image: images/$BASE_NAME.*"
-          
-          # Check if any file matches that base name with ANY extension
-          if ls images/"$BASE_NAME".* 1>/dev/null 2>&1; then
-            echo "✅ Success: Image found for log $BASE_NAME!"
-          else
-            echo "❌ Error: No matching image found for $BASE_NAME."
-            echo "Please ensure the original photo is uploaded to the images/ directory."
-            exit 1 # This command intentionally crashes the Action
-          fi
+        run: python scripts/validate_image.py
