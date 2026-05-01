@@ -6,7 +6,7 @@ on:
     types:
       - completed
     paths:
-      - 'logs/*.md' # Only runs when a log file is added or modified
+      - 'logs/*.md'
   workflow_dispatch:
 
 permissions:
@@ -19,52 +19,19 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Run calculation on latest log
-        run: |
-          # 1. Find the newest .md file
-          LATEST_LOG=$(ls logs/*.md 2>/dev/null | sort -r | head -1)
-          
-          if [[ -z "$LATEST_LOG" ]]; then
-            echo "No logs found."
-            exit 0
-          fi
-          
-          # 2. Extract just the file name (e.g., 12_04_2026)
-          file_date=$(basename "$LATEST_LOG" .md)
-          
-          # 3. Silently flip it to YYYY-MM-DD
-          parsed_date=$(echo "$file_date" | awk -F'_' '{print $3"-"$2"-"$1}')
-          
-          # 4. Calculate the last day of the current month
-          last_day=$(date -d "$(date +%Y-%m-01) +1 month -1 day" +%Y-%m-%d)
-          
-          # 5. Convert BOTH dates to Unix Epoch Time
-          time_target=$(date -d "$parsed_date" +%s)
-          time_end=$(date -d "$last_day" +%s)
-          
-          # 6. Calculate the remaining days
-          days_remaining=$(( (time_end - time_target) / 86400 ))
-          
-          # 7. Print to the terminal console
-          echo "Processing file: $LATEST_LOG"
-          echo "Log Date: $parsed_date"
-          echo "End of Month: $last_day"
-          echo "Days Remaining: $days_remaining"
-          
-          # 8. Print to the visual GitHub Action Summary UI
-          echo "### ⏳ Time Remaining in Month" >> $GITHUB_STEP_SUMMARY
-          echo "- **Log Date:** $parsed_date" >> $GITHUB_STEP_SUMMARY
-          echo "- **End of Month:** $last_day" >> $GITHUB_STEP_SUMMARY
-          echo "- **Days Remaining:** $days_remaining days" >> $GITHUB_STEP_SUMMARY
-          #9. Write the number of days remaining until reflection to the readme.md
-          sed -i '/^## Number of days until reflection/,$d' README.md || true
-          echo "" >> README.md
-          echo "## Number of days until reflection">>README.md
-          echo "$days_remaining" >> README.md
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
 
-          git config  user.name "github-actions[bot]@users.noreply.github.com"
-          git config  user.email "github-actions[bot]@users.noreply.github.com"
+      - name: Calculate Days and Update README
+        run: python scripts/calculate_days.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]@users.noreply.github.com"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "docs: Auto-update README with number of days toreflection" || echo "No changes to commit"
+          git commit -m "docs: Auto-update README with number of days to reflection" || echo "No changes to commit"
           git pull --rebase origin main
           git push
