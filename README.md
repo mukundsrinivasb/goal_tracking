@@ -19,9 +19,6 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-|Computer Networks Implement link following and file download | _add_remarks_ |
-|Computer Networks report after 1200 , draft submission | _add_remarks_ |
-| Coles @ from 1530 | _add_remarks_ |
-
-## Number of days until reflection
-30
+|Computer Networks Implement link following and file download | Submitted without downloading filer |
+|Computer Networks report after 1200 , draft submission | final submission |
+| Coles @ from 1530 | Done |
