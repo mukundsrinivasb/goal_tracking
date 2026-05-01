@@ -21,4 +21,4 @@ def get_latest_log_file(log_dir='logs'):
 
     # Sorts all files chronologically based on the parsed dates, grabs the newest
     latest_file = sorted(log_files, key=extract_date, reverse=True)[0]
-    return latest_filesection{Execution Instructions and Environment Setup}
+    return latest_file
