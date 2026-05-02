@@ -1,6 +1,6 @@
 # Latest G.S.P. Log
 
-# Entry - 2026-05-01
+# Entry - 2026-05-02
 
 ## Goals
 - Apply for systems engineering roles (Target: June 2026)
@@ -9,8 +9,9 @@
 
 ## Strategy
 - Graduate by June 2026.
-- Submit Computer Networks Assignment 2 - Gopher Client by May 1st  
+- Submit Computer Graphics CLab4 by 12th May
 - Fix Sleep schedule , Sleep by 0100 , Wake up by 0900.
+- Increase Gym Frequency
 - DataAnnotation for 300 USD before 7th May.
 - Progress to 50 Pushups , 20 Fist Pushups , 10 Pullups by August 2026.
 - NSW DKT Exam (7th May).
@@ -19,9 +20,9 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-|Computer Networks Implement link following and file download | Submitted without downloading filer |
-|Computer Networks report after 1200 , draft submission | final submission |
-| Coles @ from 1530 | Done |
-
-## Number of days until reflection
-30
+| Clean Toilets , Change Sheets @ 1245 | _add_remarks_ |
+| Lunch @ 1245 | _add_remarks_ |
+| Music Practice Vasantha Varnam @ 1500 | _add_remarks_ |
+| UberEats @ 1615 | _add_remarks_ |
+| Gym @ 2200   | _add_remarks_ |
+| Computer Graphics Cover Lecture Week - 6 Geometry and Mesh @ 2300| _add_remarks_ |
