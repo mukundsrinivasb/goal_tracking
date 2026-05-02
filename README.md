@@ -26,3 +26,6 @@
 | UberEats @ 1615 | Done , paid Loki the initial tranche of the deposit money |
 | Gym @ 2200   | No |
 | Computer Graphics Cover Lecture Week - 6 Geometry and Mesh @ 2300| spent a lot of time at divs and vikrams |
+
+## Number of days until reflection
+29
