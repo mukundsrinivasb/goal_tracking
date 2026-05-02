@@ -20,12 +20,9 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-| Clean Toilets , Change Sheets @ 1245 | _add_remarks_ |
+| Clean Toilets , Change Sheets @ 1245 | DJ cleaned the toilets , I cleaned the kitchen floor |
 | Lunch @ 1245 | _add_remarks_ |
 | Music Practice Vasantha Varnam @ 1500 | _add_remarks_ |
 | UberEats @ 1615 | _add_remarks_ |
 | Gym @ 2200   | _add_remarks_ |
 | Computer Graphics Cover Lecture Week - 6 Geometry and Mesh @ 2300| _add_remarks_ |
-
-## Number of days until reflection
-29
