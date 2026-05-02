@@ -26,3 +26,6 @@
 | UberEats @ 1615 | _add_remarks_ |
 | Gym @ 2200   | _add_remarks_ |
 | Computer Graphics Cover Lecture Week - 6 Geometry and Mesh @ 2300| _add_remarks_ |
+
+## Number of days until reflection
+29
