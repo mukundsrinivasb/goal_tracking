@@ -1,6 +1,6 @@
 # Latest G.S.P. Log
 
-# Entry - 2026-05-02
+# Entry - 2026-05-03
 
 ## Goals
 - Apply for systems engineering roles (Target: June 2026)
@@ -11,7 +11,7 @@
 - Graduate by June 2026.
 - Submit Computer Graphics CLab4 by 12th May
 - Fix Sleep schedule , Sleep by 0100 , Wake up by 0900.
-- Increase Gym Frequency
+- Increase Gym Frequency to twice a week
 - DataAnnotation for 300 USD before 7th May.
 - Progress to 50 Pushups , 20 Fist Pushups , 10 Pullups by August 2026.
 - NSW DKT Exam (7th May).
@@ -20,12 +20,9 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-| Clean Toilets , Change Sheets @ 1245 | DJ cleaned the toilets , I cleaned the kitchen floor |
-| Lunch @ 1245 | Done, Had eggs , eggplant, capsicum and rice |
-| Music Practice Vasantha Varnam @ 1500 | Done , stored the recording |
-| UberEats @ 1615 | Done , paid Loki the initial tranche of the deposit money |
-| Gym @ 2200   | No |
-| Computer Graphics Cover Lecture Week - 6 Geometry and Mesh @ 2300| spent a lot of time at divs and vikrams |
-
-## Number of days until reflection
-29
+| Computer Graphics Cover Lecture Week - 6 Geometry and Mesh @ 1330| _add_remarks_ |
+| Lunch @ 1345 | _add_remarks_ |
+| Computer Graphics Task 1.1 CLab4 @ 1530| _add_remarks_ |
+| UberEats @ 1645 | _add_remarks_ |
+| Pick Up and drop prateek @ 1915 | _add_remarks_ |
+| Gym @ 2300 | _add_remarks_ |
