@@ -25,3 +25,6 @@
 | Brunch @ 1145 | Had chicken |
 | UberEats @ 1645 | Done , Started a little late , distracted by Amazon Prime , Sapne vs everyone |
 | Gym @ 2300 | Done, Maintanence and tried a new routine for endurance , shall have 1 day endurance and 1 day strength |
+
+## Number of days until reflection
+27
