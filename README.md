@@ -1,6 +1,6 @@
 # Latest G.S.P. Log
 
-# Entry - 2026-05-03
+# Entry - 2026-05-04
 
 ## Goals
 - Apply for systems engineering roles (Target: June 2026)
@@ -11,7 +11,7 @@
 - Graduate by June 2026.
 - Submit Computer Graphics CLab4 by 12th May
 - Fix Sleep schedule , Sleep by 0100 , Wake up by 0900.
-- Increase Gym Frequency to twice a week
+- Increase Gym Frequency to twice a week , starting May 4th
 - DataAnnotation for 300 USD before 7th May.
 - Progress to 50 Pushups , 20 Fist Pushups , 10 Pullups by August 2026.
 - NSW DKT Exam (7th May).
@@ -20,12 +20,8 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-| Computer Graphics Cover Lecture Week - 6 Geometry and Mesh @ 1330| Covered Geometry , moving on the ray tracing |
-| Lunch @ 1345 | Done , Had Chicken |
-| Computer Graphics Task 1.1 CLab4 @ 1530| _add_remarks_ |
-| UberEats @ 1645 | Done |
-| Pick Up and drop prateek @ 1915 | Done |
+| Computer Graphics Scene setup CLab4 Task 1.1 @ 1200 | _add_remarks_ |
+| Computer Networks Timeouts @ 1430 | _add_remarks_ |
+| Brunch @ 1145 | _add_remarks_ |
+| UberEats @ 1645 | _add_remarks_ |
 | Gym @ 2300 | _add_remarks_ |
-
-## Number of days until reflection
-28
