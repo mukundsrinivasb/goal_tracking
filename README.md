@@ -25,3 +25,6 @@
 | Brunch @ 1145 | Had chicken |
 | UberEats @ 1645 | _add_remarks_ |
 | Gym @ 2300 | _add_remarks_ |
+
+## Number of days until reflection
+27
