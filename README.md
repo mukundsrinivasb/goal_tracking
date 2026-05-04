@@ -21,10 +21,7 @@
 | Task | Remarks |
 | :--- | :--- |
 | Computer Graphics Scene setup CLab4 Task 1.1 @ 1200 | Started work on task1 , distracted by Amazon Prime , Sapne vs everyone |
-| Computer Networks Timeouts @ 1430 | _add_remarks_ |
+| Computer Networks Timeouts @ 1430 | Not totally done with the first one , Lets see  |
 | Brunch @ 1145 | Had chicken |
 | UberEats @ 1645 | Done , Started a little late , distracted by Amazon Prime , Sapne vs everyone |
 | Gym @ 2300 | Done, Maintanence and tried a new routine for endurance , shall have 1 day endurance and 1 day strength |
-
-## Number of days until reflection
-27
