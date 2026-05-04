@@ -24,7 +24,4 @@
 | Computer Networks Timeouts @ 1430 | _add_remarks_ |
 | Brunch @ 1145 | Had chicken |
 | UberEats @ 1645 | Done , Started a little late , distracted by Amazon Prime , Sapne vs everyone |
-| Gym @ 2300 | _add_remarks_ |
-
-## Number of days until reflection
-27
+| Gym @ 2300 | Done, Maintanence and tried a new routine for endurance , shall have 1 day endurance and 1 day strength |
