@@ -20,10 +20,7 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-| Breakfast @ 1130 | _add_remarks_ |
-| Computer Graphics Scene setup CLab4 Task 1.1 @ 1200 | _add_remarks_ |
-| Coles @ 1515 | _add_remarks_ |
+| Breakfast @ 1130 | Had Cereal |
+| Computer Graphics Scene setup CLab4 Task 1.1 @ 1200 | Will Have to solve the linear equation without inverse , using cramers rule  |
+| Coles @ 1515 | Done, Had a banger of a time |
 | Computer Networks Timeouts @ 2200 | _add_remarks_ |
-
-## Number of days until reflection
-26
