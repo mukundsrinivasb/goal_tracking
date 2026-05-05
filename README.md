@@ -24,3 +24,6 @@
 | Computer Graphics Scene setup CLab4 Task 1.1 @ 1200 | _add_remarks_ |
 | Coles @ 1515 | _add_remarks_ |
 | Computer Networks Timeouts @ 2200 | _add_remarks_ |
+
+## Number of days until reflection
+26
