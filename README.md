@@ -26,3 +26,6 @@
 | Computer Networks Timeouts at @ Uni 1400 | _add_remarks_ |
 | UberEats @ 1530 | _add_remarks_ |
 | Dinner , Pav Bhaji @ 2230 | _add_remarks_ |
+
+## Number of days until reflection
+25
