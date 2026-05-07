@@ -27,3 +27,6 @@
 | Coles @ 1630 | Done, Had fun |
 | Dinner , Pav Bhaji @ 2230 | had dinner late |
 
+
+## Number of days until reflection
+24
