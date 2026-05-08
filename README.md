@@ -21,12 +21,9 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-| Breakfast @ 1100 | Done , Had Cereal |
-| Computer Graphics CLab4 Task 1.1 , Phong illumination @ 1130 | Need to implement phong shading on task1.1 for diffuse surfaces |
-| Computer Networks Timeouts at @ 1430 | The timeout loop keeps working even after eof , I |
-| Coles @ 1630 | Done, Had fun |
-| Dinner , Pav Bhaji @ 2230 | had dinner late |
-
-
-## Number of days until reflection
-24
+| Breakfast @ 1115 | _add_remarks_ |
+| Computer Graphics CLab4 Task 1.1 , Phong illumination @ 1140 | _add_remarks_ |
+| Computer Networks Timeouts at @ 1445 | _add_remarks_ |
+| UberEats @ 1600 , Pack Dinner | _add_remarks_ |
+| Dinner , Pav Bhaji @ 2000 | _add_remarks_ |
+| Gym @ 2300 | _add_remarks_ |
