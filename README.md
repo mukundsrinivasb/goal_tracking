@@ -27,3 +27,6 @@
 | UberEats @ 1600 , Pack Dinner | _add_remarks_ |
 | Dinner , Pav Bhaji @ 2000 | _add_remarks_ |
 | Gym @ 2300 | _add_remarks_ |
+
+## Number of days until reflection
+23
