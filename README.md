@@ -26,3 +26,6 @@
 | UberEats @ 1630 | _add_remarks_ |
 | Dinner , Chicken @ 2000 | _add_remarks_ |
 | Gym @ 2330 | _add_remarks_ |
+
+## Number of days until reflection
+22
