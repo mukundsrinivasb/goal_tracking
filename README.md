@@ -1,6 +1,6 @@
 # Latest G.S.P. Log
 
-# Entry - 2026-05-09
+# Entry - 2026-05-10
 
 ## Goals
 - Apply for systems engineering roles (Target: June 2026)
@@ -21,11 +21,9 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-| Cereal , Coffee , Cigarette @ 1430 | _add_remarks_ |
-| Computer Graphics CLab4 Anti Aliasing and scene setup @ 1500 | _add_remarks_ |
-| UberEats @ 1630 | _add_remarks_ |
-| Dinner , Chicken @ 2000 | _add_remarks_ |
-| Gym @ 2330 | _add_remarks_ |
-
-## Number of days until reflection
-22
+| Cereal , Coffee , Cigarette @ 1200 | _add_remarks_ |
+| Computer Graphics CLab4 Anti Aliasing @ 1230 | _add_remarks_ |
+| Dinner @ 1515 | _add_remarks_ |
+| Coles @ 1630 | _add_remarks_ |
+| Gym @ 2300 | _add_remarks_ |
+| Continue Anti Aliasing @ Until 0130 | _add_remarks_ |
