@@ -27,3 +27,6 @@
 | Coles @ 1630 | _add_remarks_ |
 | Gym @ 2300 | _add_remarks_ |
 | Continue Anti Aliasing @ Until 0130 | _add_remarks_ |
+
+## Number of days until reflection
+21
