@@ -27,3 +27,6 @@
 | UberEats for Petrol , Gym , Ciggy @ 1815 | _add_remarks_ |
 | Gym @ 2300 | _add_remarks_ |
 | Glance at Computer Networks assignment 3 , Find out what I need to learn @ Until 0130 | _add_remarks_ |
+
+## Number of days until reflection
+20
