@@ -28,3 +28,6 @@
 | Computer Graphics CLab4 Task 1.3 Continue , with finishing up on the report @ 1930 | _add_remarks_ |
 | Gym @ 2100 | _add_remarks_ |
 | Glance at Computer Networks assignment 3 , Find out what I need to learn @ Until 0130 | _add_remarks_ |
+
+## Number of days until reflection
+19
