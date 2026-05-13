@@ -25,3 +25,6 @@
 | Computer Graphics CLab4 Reading ip on Task 1.2 @ 1430 | _add_remarks_ |
 | Computer Graphics Report task 1.1 , 1.2 @ 1600 | _add_remarks_ |
 | Gym @ 2100 | _add_remarks_ |
+
+## Number of days until reflection
+18
