@@ -1,6 +1,6 @@
 # Latest G.S.P. Log
 
-# Entry - 2026-05-12
+# Entry - 2026-05-13
 
 ## Goals
 - Apply for systems engineering roles (Target: June 2026)
@@ -21,13 +21,7 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-| Cereal , Coffee , Cigarette @ 0900 | _add_remarks_ |
-| Computer Graphics CLab4 Reading ip on Task 1.2 @ 0930 | _add_remarks_ |
-| Computer Graphics Report task 1.1 , 1.2 @ 0930 | _add_remarks_ |
-| Work @ 1045 | _add_remarks_ |
-| Computer Graphics CLab4 Task 1.3 Continue , with finishing up on the report @ 1930 | _add_remarks_ |
+| Cereal , Coffee , Cigarette @ 1400 | _add_remarks_ |
+| Computer Graphics CLab4 Reading ip on Task 1.2 @ 1430 | _add_remarks_ |
+| Computer Graphics Report task 1.1 , 1.2 @ 1600 | _add_remarks_ |
 | Gym @ 2100 | _add_remarks_ |
-| Glance at Computer Networks assignment 3 , Find out what I need to learn @ Until 0130 | _add_remarks_ |
-
-## Number of days until reflection
-19
