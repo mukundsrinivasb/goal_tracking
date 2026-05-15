@@ -24,3 +24,6 @@
 | Understand BRDF, go through lecture notes , and understand monte carlo path tracing and understand how its different from ray tracing @ 1000 | _add_remarks_ |
 | Computer Graphics Report task 1.1 , 1.3 @ 1130 | _add_remarks_ |
 | UberEats @ 1330 | _add_remarks_ |
+
+## Number of days until reflection
+16
