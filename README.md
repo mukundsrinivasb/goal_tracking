@@ -27,3 +27,6 @@
 | Computer Networks MQTT find what concepts are needed and start with the first question @ 1500 | _add_remarks_ |
 | Move Kitchen Stuff,Clean old room , move matress @ 1700 | _add_remarks_ |
 | UberEats @ 1730 | _add_remarks_ |
+
+## Number of days until reflection
+14
