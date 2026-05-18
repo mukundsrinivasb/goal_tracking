@@ -28,3 +28,6 @@
 | Move Kitchen Stuff,Clean old room , move matress @ 1900 | _add_remarks_ |
 | UberEats @ 2000 | _add_remarks_ |
 | Computer Networks MQTT find what concepts are needed and start with the first question @ 1500 | _add_remarks_ |
+
+## Number of days until reflection
+13
