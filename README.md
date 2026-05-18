@@ -1,6 +1,6 @@
 # Latest G.S.P. Log
 
-# Entry - 2026-05-17
+# Entry - 2026-05-18
 
 ## Goals
 - Apply for systems engineering roles (Target: June 2026)
@@ -21,12 +21,10 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-| Cereal , Coffee , Cigarette @ 1140 | _add_remarks_ |
-| CLab4, Monte Carlo Integration , Revisit lecture and note down new understanding , contextualize it for lab4 @ 1200 | _add_remarks_ |
-| Computer Graphics Report task 1.1 , 1.3 @ 1330 | _add_remarks_ |
+| Send my blue phone to sycon @ 1300 | _add_remarks_ |
+| Cereal , Coffee , Cigarette @ 1315 | _add_remarks_ |
+| CLab4, Monte Carlo Integration , Revisit lecture and note down new understanding , contextualize it for lab4 @ 1400 | _add_remarks_ |
+| Computer Graphics Report task 1.1 @ 1600 | _add_remarks_ |
+| Move Kitchen Stuff,Clean old room , move matress @ 1900 | _add_remarks_ |
+| UberEats @ 2000 | _add_remarks_ |
 | Computer Networks MQTT find what concepts are needed and start with the first question @ 1500 | _add_remarks_ |
-| Move Kitchen Stuff,Clean old room , move matress @ 1700 | _add_remarks_ |
-| UberEats @ 1730 | _add_remarks_ |
-
-## Number of days until reflection
-14
