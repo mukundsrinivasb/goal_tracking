@@ -25,3 +25,6 @@
 | Coles @ 1230 | _add_remarks_ |
 | Report Clab4  @ 1900 | _add_remarks_ |
 | Submit CLab4  @ 0100 | _add_remarks_ |
+
+## Number of days until reflection
+12
