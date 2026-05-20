@@ -27,3 +27,6 @@
 | Submit CLab4 2 Pseudo code | _add_remarks_ |
 | Music Class @ 1930 | _add_remarks_ |
 | CG Group Meeting @ 2000 | _add_remarks_ |
+
+## Number of days until reflection
+11
