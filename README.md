@@ -30,3 +30,6 @@
 | Work Coles @ 1630 | _add_remarks_ |
 | Apply for exam prep leave @ 2300 | _add_remarks_ |
 | Email CG prof with user manual video for clab3 @ 2330 | _add_remarks_ |
+
+## Number of days until reflection
+10
