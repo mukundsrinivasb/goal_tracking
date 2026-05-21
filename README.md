@@ -1,6 +1,6 @@
 # Latest G.S.P. Log
 
-# Entry - 2026-05-20
+# Entry - 2026-05-21
 
 ## Goals
 - Apply for systems engineering roles (Target: June 2026)
@@ -22,11 +22,11 @@
 | Task | Remarks |
 | :--- | :--- |
 | Cereal , Coffee , Cigarette @ 1300 | _add_remarks_ |
-| Report Clab4 1.1 Results and discussions  @ 1330 | _add_remarks_ |
-| Submit CLab4 1.3 Results and discussions   | _add_remarks_ |
+| Report Clab4 1.2 BVH Optimization overview  @ 1300 | _add_remarks_ |
+| Report Clab4 1.2 render comparisons | _add_remarks_ |
+| Report Clab4 1.3 render comparisons | _add_remarks_ |
+| Submit CLab4 2 overview and algorithm pseudocode| _add_remarks_ |
 | Submit CLab4 2 Pseudo code | _add_remarks_ |
-| Music Class @ 1930 | _add_remarks_ |
-| CG Group Meeting @ 2000 | _add_remarks_ |
-
-## Number of days until reflection
-11
+| Work Coles @ 1630 | _add_remarks_ |
+| Apply for exam prep leave @ 2300 | _add_remarks_ |
+| Email CG prof with user manual video for clab3 @ 2330 | _add_remarks_ |
