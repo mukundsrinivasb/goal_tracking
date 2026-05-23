@@ -25,3 +25,6 @@
 | Computer Networks Read about MQTT from lectures @ 1330 | _add_remarks_ |
 | List all the gaps in knowledge for assignment 3 @ 1330 | _add_remarks_ |
 | Work UberEats @ 1700  | _add_remarks_ | 
+
+## Number of days until reflection
+8
