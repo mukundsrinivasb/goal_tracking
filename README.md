@@ -25,3 +25,6 @@
 | MQTT Lab , Week - 10 @ 1300 | _add_remarks_ |
 | Computer Networks Ass 3 , setup on AWS @ 1415 | _add_remarks_ |
 | Work UberEats @ 1730  | _add_remarks_ | 
+
+## Number of days until reflection
+7
