@@ -1,6 +1,6 @@
 # Latest G.S.P. Log
 
-# Entry - 2026-05-24
+# Entry - 2026-05-27
 
 ## Goals
 - Apply for systems engineering roles (Target: June 2026)
@@ -20,11 +20,8 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-| Shower @ 1245 | _add_remarks_ |
 | Cereal , Coffee , Cigarette @ 1300 | _add_remarks_ |
-| MQTT Lab , Week - 10 @ 1300 | _add_remarks_ |
-| Computer Networks Ass 3 , setup on AWS @ 1415 | _add_remarks_ |
-| Work UberEats @ 1730  | _add_remarks_ | 
-
-## Number of days until reflection
-7
+| Computer Networks Ass 3 , Implement Analyzer @ 1330 | _add_remarks_ |
+| Cleanup Code , Implement Command line argumants , Computer Graphics @ 1600 | _add_remarks_ |
+| Computer Networks Ass 3 , report @ 1730 | _add_remarks_ |
+| visit Vik and Div @ 1900 | _add_remarks_ |
