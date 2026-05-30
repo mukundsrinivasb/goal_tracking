@@ -1,6 +1,6 @@
 # Latest G.S.P. Log
 
-# Entry - 2026-05-27
+# Entry - 2026-05-30
 
 ## Goals
 - Apply for systems engineering roles (Target: June 2026)
@@ -20,11 +20,7 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-| Cereal , Coffee , Cigarette @ 1300 | _add_remarks_ |
-| Computer Networks Ass 3 , Implement Analyzer @ 1330 | _add_remarks_ |
-| Cleanup Code , Implement Command line argumants , Computer Graphics @ 1600 | _add_remarks_ |
-| Computer Networks Ass 3 , report @ 1730 | _add_remarks_ |
-| visit Vik and Div @ 1900 | _add_remarks_ |
-
-## Number of days until reflection
-4
+| Cereal , Coffee , Cigarette @ 1200 | _add_remarks_ |
+| Computer Graphics Report compilation @ 1230 | _add_remarks_ |
+|Work, Coles @ 1430 | _add_remarks_ |
+| Email ANUSA and get all the help with reg to appealing to the VC. Seek help from potential srtategies in the appeal @ 2330 | _add_remarks_ |
