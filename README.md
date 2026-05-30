@@ -24,3 +24,6 @@
 | Computer Graphics Report compilation @ 1230 | _add_remarks_ |
 |Work, Coles @ 1430 | _add_remarks_ |
 | Email ANUSA and get all the help with reg to appealing to the VC. Seek help from potential srtategies in the appeal @ 2330 | _add_remarks_ |
+
+## Number of days until reflection
+1
