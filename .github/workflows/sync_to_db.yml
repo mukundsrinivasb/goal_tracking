@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'logs/**.md'   # only triggers when a log file is pushed
+  workflow_dispatch:
 
 jobs:
   sync:
