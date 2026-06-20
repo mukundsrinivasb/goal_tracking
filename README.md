@@ -23,3 +23,6 @@
 |Portfolio Idea @ 1230 | _add_remarks_ |
 |NSW DKT Exam @ 1400 | _add_remarks_ |
 |Work Coles @ 1630 | _add_remarks_ |
+
+## Number of days until reflection
+10
