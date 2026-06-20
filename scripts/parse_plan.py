@@ -14,7 +14,6 @@ import os
 import sys
 from pathlib import Path
 import libsql_client
-import re
 
 from log_utils import get_latest_log_file, filename_to_date, parse_plan
 
