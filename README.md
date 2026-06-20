@@ -1,6 +1,6 @@
 # Latest G.S.P. Log
 
-# Entry - 2026-06-07
+# Entry - 2026-06-20
 
 ## Goals
 - Apply for software engineering roles (Target: June 2026)
@@ -23,6 +23,3 @@
 |Portfolio Idea @ 1230 | _add_remarks_ |
 |NSW DKT Exam @ 1400 | _add_remarks_ |
 |Work Coles @ 1630 | _add_remarks_ |
-
-## Number of days until reflection
-23
