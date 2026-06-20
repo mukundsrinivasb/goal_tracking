@@ -3,29 +3,23 @@
 # Entry - 2026-06-07
 
 ## Goals
-- Apply for systems engineering roles (Target: June 2026)
+- Apply for software engineering roles (Target: June 2026)
 - Purchase M-size shirts & Size-32 Pants (Target: August 2026)
-- Mandolin: Practice sarali varisai (Target: June 2026)
+- Mandolin: Practice sarali varisai (Target: July 2026)
 
 ## Strategy
 - Graduate from the Masters of Computing by June 2026.
-- Prep T3 - T7 for exam on the 11th, with practice questions and guest lectures.
 - Draft an appeal to the dvc and have ANUSA help you out.
-- Pay off debt to div , chetan and clublime.
-- Fix Sleep schedule , Sleep by 0100 , Wake up by 0900.
+- Pay off debt to  chetan and clublime , steppay.
+- Get a doctor's note from senthil kumar.
 - Progress to 50 Pushups , 20 Fist Pushups , 10 Pullups by August 2026.
-- NSW DKT Exam (17th June).
-- Pay 500 uni fees AUD before 5th June
-- Get a Psychiatrists Certificate by 15th June
+- NSW DKT Exam (24th June).
+- Get a Minnie Mam's Certificate by 22nd June
 - 15 Hackerrank problems by June 2026.
 
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-|Uber Eats @ 1330 | _add_remarks_ |
-|Computer Networks T5 Tutorial Questions @ 1700 | _add_remarks_ |
-|Computer Networks T5 and T5 10 Questions from the mock exam @ 1930 | _add_remarks_ |
-|Vik and Div @ 2000 | _add_remarks_ |
-
-## Number of days until reflection
-23
+|Portfolio Idea @ 1230 | _add_remarks_ |
+|NSW DKT Exam @ 1400 | _add_remarks_ |
+|Work Coles @ 1630 | _add_remarks_ |
