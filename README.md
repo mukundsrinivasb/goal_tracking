@@ -22,7 +22,4 @@
 | :--- | :--- |
 |NSW DKT Exam @ 1230 | _add_remarks_ |
 |Lunch @ 1330 | _add_remarks_ |
-|Work Coles @ 1430 | _add_remarks_ |
-
-## Number of days until reflection
-9
+|UberEats @ 1430 | _add_remarks_ |
