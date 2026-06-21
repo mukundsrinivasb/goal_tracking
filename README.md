@@ -1,6 +1,6 @@
 # Latest G.S.P. Log
 
-# Entry - 2026-06-20
+# Entry - 2026-06-21
 
 ## Goals
 - Apply for software engineering roles (Target: June 2026)
@@ -11,7 +11,7 @@
 - Graduate from the Masters of Computing by June 2026.
 - Draft an appeal to the dvc and have ANUSA help you out.
 - Pay off debt to  chetan and clublime , steppay.
-- Get a doctor's note from senthil kumar.
+- Get a doctor's note from Dr.Senthil kumar.
 - Progress to 50 Pushups , 20 Fist Pushups , 10 Pullups by August 2026.
 - NSW DKT Exam (24th June).
 - Get a Minnie Mam's Certificate by 22nd June
@@ -20,9 +20,6 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-|Portfolio Idea @ 1230 | _add_remarks_ |
-|NSW DKT Exam @ 1400 | _add_remarks_ |
-|Work Coles @ 1630 | _add_remarks_ |
-
-## Number of days until reflection
-10
+|NSW DKT Exam @ 1230 | _add_remarks_ |
+|Lunch @ 1330 | _add_remarks_ |
+|Work Coles @ 1430 | _add_remarks_ |
