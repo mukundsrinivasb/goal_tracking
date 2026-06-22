@@ -1,6 +1,6 @@
 # Latest G.S.P. Log
 
-# Entry - 2026-06-21
+# Entry - 2026-06-22
 
 ## Goals
 - Apply for software engineering roles (Target: June 2026)
@@ -14,15 +14,11 @@
 - Get a doctor's note from Dr.Senthil kumar.
 - Progress to 50 Pushups , 20 Fist Pushups , 10 Pullups by August 2026.
 - NSW DKT Exam (24th June).
-- Get a Minnie Mam's Certificate by 22nd June
 - 15 Hackerrank problems by June 2026.
 
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-|NSW DKT Exam @ 1230 | _add_remarks_ |
-|Lunch @ 1330 | _add_remarks_ |
-|UberEats @ 1430 | _add_remarks_ |
-
-## Number of days until reflection
-9
+|NSW DKT Exam @ 1330 | _add_remarks_ |
+|Greenway MedCenter Appointment with Dr Senthil Kumar @ 1400 | _add_remarks_ |
+|UberEats @ 1500 | _add_remarks_ |
