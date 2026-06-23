@@ -25,3 +25,6 @@
 |Draft Late Withdrawal Application , send it to ANUSA @ 2200 | _add_remarks_ |
 |Draft Procedural Appeal Application , send it to ANUSA @ 2300 | _add_remarks_ |
 |NSW DKT Exam @ 0000 | _add_remarks_ |
+
+## Number of days until reflection
+7
