@@ -1,6 +1,6 @@
 # Latest G.S.P. Log
 
-# Entry - 2026-06-22
+# Entry - 2026-06-23
 
 ## Goals
 - Apply for software engineering roles (Target: June 2026)
@@ -19,9 +19,9 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-|NSW DKT Exam @ 1330 | _add_remarks_ |
-|Greenway MedCenter Appointment with Dr Senthil Kumar @ 1400 | _add_remarks_ |
-|UberEats @ 1500 | _add_remarks_ |
-
-## Number of days until reflection
-8
+|Car Cleaning @ 1230 | _add_remarks_ |
+|Work Coles @ 1230 | _add_remarks_ |
+|Meet Mamtha @ 2000 | _add_remarks_ |
+|Draft Late Withdrawal Application , send it to ANUSA @ 2200 | _add_remarks_ |
+|Draft Procedural Appeal Application , send it to ANUSA @ 2300 | _add_remarks_ |
+|NSW DKT Exam @ 0000 | _add_remarks_ |
