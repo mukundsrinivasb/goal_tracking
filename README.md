@@ -1,6 +1,6 @@
 # Latest G.S.P. Log
 
-# Entry - 2026-06-23
+# Entry - 2026-06-24
 
 ## Goals
 - Apply for software engineering roles (Target: June 2026)
@@ -19,12 +19,7 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-|Car Cleaning @ 1230 | _add_remarks_ |
-|Work Coles @ 1230 | _add_remarks_ |
-|Meet Mamtha @ 2000 | _add_remarks_ |
+|NSW DKT Exam @ 1700 | _add_remarks_ |
+|Draft Procedural Appeal Application , send it to ANUSA @ 1800 | _add_remarks_ |
+|Visit Vik and Div @ 2000 | _add_remarks_ |
 |Draft Late Withdrawal Application , send it to ANUSA @ 2200 | _add_remarks_ |
-|Draft Procedural Appeal Application , send it to ANUSA @ 2300 | _add_remarks_ |
-|NSW DKT Exam @ 0000 | _add_remarks_ |
-
-## Number of days until reflection
-7
