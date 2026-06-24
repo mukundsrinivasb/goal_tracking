@@ -23,3 +23,6 @@
 |Draft Procedural Appeal Application , send it to ANUSA @ 1800 | _add_remarks_ |
 |Visit Vik and Div @ 2000 | _add_remarks_ |
 |Draft Late Withdrawal Application , send it to ANUSA @ 2200 | _add_remarks_ |
+
+## Number of days until reflection
+6
