@@ -21,3 +21,6 @@
 |Draft an updated Appeal , send it to ANUSA and the dean of students for review @ 1500 | _add_remarks_ |
 |Setup C code for ESP32 based desktop todo organizer @ 1400 | _add_remarks_ |
 |UberEats @ 1630 | _add_remarks_ |
+
+## Number of days until reflection
+1
