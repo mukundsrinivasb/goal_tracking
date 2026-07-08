@@ -20,3 +20,6 @@
 |Update ANUSA on the results,  @ 1630 | _add_remarks_ |
 |UberEats @ 1630 | _add_remarks_ |
 |NSW DKT,  @ 2100 | _add_remarks_ |
+
+## Number of days until reflection
+23
