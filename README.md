@@ -19,7 +19,5 @@
 |Connect ESP32 to the turso database @ 1500 | _add_remarks_ |
 |Update ANUSA on the results,  @ 1630 | _add_remarks_ |
 |UberEats @ 1630 | _add_remarks_ |
+|Music Class @ 1930 | _add_remarks_ |
 |NSW DKT,  @ 2100 | _add_remarks_ |
-
-## Number of days until reflection
-23
