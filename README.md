@@ -22,3 +22,6 @@
 |Music Class @ 1500 | _add_remarks_ |
 |NSW DKT,  @ 1545 | _add_remarks_ |
 |Work, coles  @ 1630 | _add_remarks_ |
+
+## Number of days until reflection
+22
