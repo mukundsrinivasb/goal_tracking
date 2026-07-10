@@ -1,6 +1,6 @@
 # Latest G.S.P. Log
 
-# Entry - 2026-07-09
+# Entry - 2026-07-10
 
 ## Goals
 - Begin applying for software engineering roles (Target: August 2026)
@@ -16,12 +16,6 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-|Connect ESP32 to the turso database @ 1300 | _add_remarks_ |
-|UberEats @ 1400 | _add_remarks_ |
-|Laundry @ 1445 | _add_remarks_ |
-|Music Class @ 1500 | _add_remarks_ |
-|NSW DKT,  @ 1545 | _add_remarks_ |
-|Work, coles  @ 1630 | _add_remarks_ |
-
-## Number of days until reflection
-22
+|Connect ESP32 to turso's database , monitor the response @ 1230 | _add_remarks_ |
+|NSW DKT,  @ 1345 | _add_remarks_ |
+|Work, coles  @ 1545 | _add_remarks_ |
