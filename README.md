@@ -19,3 +19,6 @@
 |Connect ESP32 to turso's database , monitor the response @ 1230 | _add_remarks_ |
 |NSW DKT,  @ 1345 | _add_remarks_ |
 |Work, coles  @ 1545 | _add_remarks_ |
+
+## Number of days until reflection
+21
