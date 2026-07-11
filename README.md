@@ -19,3 +19,6 @@
 |Connect ESP32 log entries from turso database @ 1315 | _add_remarks_ |
 |NSW DKT,  @ 1430 | _add_remarks_ |
 |Work, UberEats  @ 1500 | _add_remarks_ |
+
+## Number of days until reflection
+20
