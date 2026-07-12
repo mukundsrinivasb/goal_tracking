@@ -20,3 +20,6 @@
 |NSW DKT,  @ 1530 | _add_remarks_ |
 |Work, UberEats  @ 1630 | _add_remarks_ |
 |Study plan for Supplementary exam prep on the 22nd July  @ 2300 | _add_remarks_ |
+
+## Number of days until reflection
+19
