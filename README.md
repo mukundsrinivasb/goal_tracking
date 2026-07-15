@@ -19,3 +19,6 @@
 |Uber Eats @ 0800  | _add_remarks_ |
 |Work , Coles @ 1100  | _add_remarks_ |
 |Study Routing Algorithms , Routing and BGP , Congestion , Measurement @ 1800 | _add_remarks_ |
+
+## Number of days until reflection
+15
