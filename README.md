@@ -1,6 +1,6 @@
 # Latest G.S.P. Log
 
-# Entry - 2026-07-12
+# Entry - 2026-07-15
 
 ## Goals
 - Begin applying for software engineering roles (Target: August 2026)
@@ -9,17 +9,13 @@
 
 ## Strategy
 - Graduate from the Masters of Computing by August 2026.
-- Pay off debt to  DJ , Thalaiavar , chetan and clublime. 3rd week July
+- Pay off debt to  Thalaiavar , clublime. 3rd week July
 - Progress to 50 Pushups. 3rd week August
 - NSW DKT Exam (25th July).
 
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-|Format Database Entries  @ 1330 | _add_remarks_ |
-|NSW DKT,  @ 1530 | _add_remarks_ |
-|Work, UberEats  @ 1630 | _add_remarks_ |
-|Study plan for Supplementary exam prep on the 22nd July  @ 2300 | _add_remarks_ |
-
-## Number of days until reflection
-19
+|Implement Remainders, When the next day's plans are not committed, flash red and blue lights  @ 1645 | _add_remarks_ |
+|Exam Prep, Study Routing Algorithms , Routing and BGP  @ 1745 | _add_remarks_ |
+|Music Class @ 2000 | _add_remarks_ |
