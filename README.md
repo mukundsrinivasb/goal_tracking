@@ -1,6 +1,6 @@
 # Latest G.S.P. Log
 
-# Entry - 2026-07-15
+# Entry - 2026-07-16
 
 ## Goals
 - Begin applying for software engineering roles (Target: August 2026)
@@ -16,9 +16,6 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-|Implement Remainders, When the next day's plans are not committed, flash red and blue lights  @ 1645 | _add_remarks_ |
-|Exam Prep, Study Routing Algorithms , Routing and BGP  @ 1745 | _add_remarks_ |
-|Music Class @ 2000 | _add_remarks_ |
-
-## Number of days until reflection
-16
+|Uber Eats @ 0800  | _add_remarks_ |
+|Work , Coles @ 1100  | _add_remarks_ |
+|Study Routing Algorithms , Routing and BGP , Congestion , Measurement @ 1800 | _add_remarks_ |
