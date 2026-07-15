@@ -19,3 +19,6 @@
 |Implement Remainders, When the next day's plans are not committed, flash red and blue lights  @ 1645 | _add_remarks_ |
 |Exam Prep, Study Routing Algorithms , Routing and BGP  @ 1745 | _add_remarks_ |
 |Music Class @ 2000 | _add_remarks_ |
+
+## Number of days until reflection
+16
