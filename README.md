@@ -23,3 +23,6 @@
 |A short trek, Red hill reserve  @ 0800 | _add_remarks_ |
 |Uber Eats @ 1000  | _add_remarks_ |
 |Work , Coles @ 1415  | _add_remarks_ |
+
+## Number of days until reflection
+7
