@@ -1,9 +1,9 @@
 # Latest G.S.P. Log
 
-# Entry - 2026-07-25
+# Entry - 2026-07-26
 
 ## Goals
-- Get a drivers licence with D condition for UberX
+- Get a drivers licence with D condition for UberX (Target: August 2026)
 - Begin applying for software engineering roles (Target: August 2026)
 - Purchase M-size shirts & Size-32 Pants (Target: August 2026)
 - Mandolin: Practice sarali varisai (Target: August 2026)
@@ -21,10 +21,4 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-|A short trek, Red hill reserve  @ 0800 | _add_remarks_ |
-|Uber Eats @ 1000  | _add_remarks_ |
-|Work , Coles @ 1430  | _add_remarks_ |
-|Couple the screen to the breadboard @ 2300  | _add_remarks_ |
-
-## Number of days until reflection
-6
+|Take aunty and vikram to Sydney @ 0530  | _add_remarks_ |
