@@ -1,6 +1,6 @@
 # Latest G.S.P. Log
 
-# Entry - 2026-07-28
+# Entry - 2026-07-29
 
 ## Goals
 - Get a drivers licence with D condition for UberX (Target: August 2026)
@@ -14,17 +14,15 @@
 - Durga Chalisa Till the 15 October
 - Start Enquiring about the PR Process.
 - Graduate from the Masters of Computing by August 2026.
-- Pay off debt to  Thalaiavar , clublime. 3rd week July
+- Pay off debt to clublime. 3rd week July
 - Progress to 50 Pushups. 3rd week August
 - NSW Pass Driving Exam. 25th August.
 
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-|Coffee,Breakfast @ 1230 | _add_remarks_ |
-|UberEats @ 1345 | _add_remarks_ |
+|Trek @ 0900 | _add_remarks_ |
+|Coffee,Breakfast @ 1030 | _add_remarks_ |
+|UberEats @ 1230 | _add_remarks_ |
 |Buy Shell Giftcard for Melbourne Trip @ 2030  | _add_remarks_ |
 |Couple The screen to my ESP32 @ 2300  | _add_remarks_ |
-
-## Number of days until reflection
-4
