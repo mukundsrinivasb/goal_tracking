@@ -12,7 +12,7 @@
 
 - Hanuman Chalisa 11 Times Every Day till I get my TR
 - Durga Chalisa Till the 15 October
-- Start Enquiring about the PR Process.
+- Start Enquiring about the PR Process. (Begin on the 6th August)
 - Graduate from the Masters of Computing by August 2026.
 - Pay off debt to clublime. 3rd week July
 - Progress to 50 Pushups. 3rd week August
@@ -21,11 +21,8 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-|Trek @ 0900 | _add_remarks_ |
-|Coffee,Breakfast @ 1030 | _add_remarks_ |
-|UberEats @ 1230 | _add_remarks_ |
-|Buy Shell Giftcard for Melbourne Trip @ 2030  | _add_remarks_ |
-|Couple The screen to my ESP32 @ 2300  | _add_remarks_ |
-
-## Number of days until reflection
-2
+|Coffee,Mealprep,wash,Breakfast @ 0830 | _add_remarks_ |
+|Drying, Packing @ 0930 | _add_remarks_ |
+|Withdraw money from Uber Account @ 0930  | _add_remarks_ |
+|Cooking  @ 1130 | _add_remarks_ |
+|Car Wash  @ 1230 | _add_remarks_ |
