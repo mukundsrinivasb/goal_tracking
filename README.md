@@ -24,3 +24,6 @@
 |Coffee,Breakfast @ 0900 | _add_remarks_ |
 |Reading Software Engineering - Week 2  @ 1000 | _add_remarks_ |
 |Work , UberEats @ 1400 | _add_remarks_ |
+
+## Number of days until reflection
+22
