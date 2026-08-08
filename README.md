@@ -1,6 +1,6 @@
 # Latest G.S.P. Log
 
-# Entry - 2026-08-08
+# Entry - 2026-08-09
 
 ## Goals
 - Get a drivers licence with D condition for UberX (Target: August 2026)
@@ -21,10 +21,6 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-|Coffee,Breakfast @ 1400 | _add_remarks_ |
-|Work , UberEats @ 1430 | _add_remarks_ |
-|Work , Coles @ 1815 | _add_remarks_ |
-|Reading Software Engineering - Week 2  @ 2230 | _add_remarks_ |
-
-## Number of days until reflection
-23
+|Coffee,Breakfast @ 0900 | _add_remarks_ |
+|Reading Software Engineering - Week 2  @ 1000 | _add_remarks_ |
+|Work , UberEats @ 1400 | _add_remarks_ |
