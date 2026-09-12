@@ -25,3 +25,6 @@
 |Work on Issue #6  @ 1700 | _add_remarks_ |
 |Work , UberEats, Hanuman Chalisa 11 Times @ 1830 | _add_remarks_ |
 |Gym @ 2230 | _add_remarks_ |
+
+## Number of days until reflection
+18
