@@ -27,3 +27,6 @@
 |Work on Issue #6  @ 1530 | _add_remarks_ |
 |Work , UberEats , Get Shoes from Vikrams place @ 1830 | _add_remarks_ |
 |Gym , Meditation , Post Workout @ 2230 | _add_remarks_ |
+
+## Number of days until reflection
+17
