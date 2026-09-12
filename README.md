@@ -1,6 +1,6 @@
 # Latest G.S.P. Log
 
-# Entry - 2026-09-12
+# Entry - 2026-09-13
 
 ## Goals
 - Submit EOI (Target: October 2026).
@@ -21,10 +21,9 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-|Music Practice @ 1630 | _add_remarks_ |
-|Work on Issue #6  @ 1700 | _add_remarks_ |
-|Work , UberEats, Hanuman Chalisa 11 Times @ 1830 | _add_remarks_ |
-|Gym @ 2230 | _add_remarks_ |
-
-## Number of days until reflection
-18
+|Breakfast, Coffee @ 0900 | _add_remarks_ |
+|Work , UberEats, Hanuman Chalisa 11 Times @ 1000 | _add_remarks_ |
+|Music Practice @ 1500 | _add_remarks_ |
+|Work on Issue #6  @ 1530 | _add_remarks_ |
+|Work , UberEats , Get Shoes from Vikrams place @ 1830 | _add_remarks_ |
+|Gym , Meditation , Post Workout @ 2230 | _add_remarks_ |
