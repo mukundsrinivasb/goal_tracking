@@ -1,6 +1,6 @@
 # Latest G.S.P. Log
 
-# Entry - 2026-09-14
+# Entry - 2026-09-15
 
 ## Goals
 - Submit EOI (Target: October 2026).
@@ -21,11 +21,10 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-|Gym , Meditation , Post Workout @ 0900 | _add_remarks_ |
-|Brunch, Coffee @ 1100 | _add_remarks_ |
-|Car Interior Vaccum , pump Air @ 1130 | _add_remarks_ |
-|Coles @ 1215 | _add_remarks_ |
-|UberEats @ 1900 | _add_remarks_ |
-
-## Number of days until reflection
-16
+|Car Cleaning , Interior and exterior , Air pump , Fuel @ 0800 | _add_remarks_ |
+|Breakfast , Coffee @ 1000 | _add_remarks_ |
+|Purchase racquet @ 1100 | _add_remarks_ |
+|Work on Issue #6 @ 1300 | _add_remarks_ |
+|Gym , Meditation , Post Workout @ 1330 | _add_remarks_ |
+|Raquet Restringing @ 1630 | _add_remarks_ |
+|Coles @ 1715 | _add_remarks_ |
