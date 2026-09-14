@@ -28,3 +28,6 @@
 |Gym , Meditation , Post Workout @ 1330 | _add_remarks_ |
 |Raquet Restringing @ 1630 | _add_remarks_ |
 |Coles @ 1715 | _add_remarks_ |
+
+## Number of days until reflection
+15
