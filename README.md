@@ -29,3 +29,6 @@
 |Get raquet @ 1730 | _add_remarks_ |
 |Tennis @ 1830 | _add_remarks_ |
 |Music @ 2000 | _add_remarks_ |
+
+## Number of days until reflection
+14
