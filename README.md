@@ -26,3 +26,6 @@
 |Video Editing , Voice over scripting , Annotating @ 1400 | _add_remarks_ |
 |Gym @ 1445 | _add_remarks_ |
 |Work @ 1645 | _add_remarks_ |
+
+## Number of days until reflection
+12
