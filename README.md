@@ -1,6 +1,6 @@
 # Latest G.S.P. Log
 
-# Entry - 2026-09-16
+# Entry - 2026-09-18
 
 ## Goals
 - Submit EOI (Target: October 2026).
@@ -13,22 +13,16 @@
 
 ## Strategy
 - Hanuman Chalisa 11 Times Every Day till I get my TR (Target: 16th December).
-- NSW Pass Driving Exam. (Target: 16th September).
 - Apply for Skill Assesment (Target: 26th September).
 - Submit Assignment 3 , Software Engineering (Target: 4th October).
+- NSW Pass Driving Exam. (Target: 9th October).
 - Progress to 50 Pushups. (Target: 23rd October).
 
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-|Leave for driving test at @ 0700 | _add_remarks_ |
-|Breakfast , Coffee at yass @ 0800 | _add_remarks_ |
-|Driving test @ 0845 | _add_remarks_ |
-|Bedsheets cleaning , laundry , room cleaning @ 1130 | _add_remarks_ |
-|Apply oil , self care , Work on Issue #6 @ 1330 | _add_remarks_ |
-|Get raquet @ 1730 | _add_remarks_ |
-|Tennis @ 1830 | _add_remarks_ |
-|Music @ 2000 | _add_remarks_ |
-
-## Number of days until reflection
-14
+|Coffee , New Sheets , Breakfast @ 1000 | _add_remarks_ |
+|Work on Issue #6 , Music Practice varnam in vasantha @ 1100 | _add_remarks_ |
+|Video Editing , Voice over scripting , Annotating @ 1400 | _add_remarks_ |
+|Gym @ 1445 | _add_remarks_ |
+|Work @ 1645 | _add_remarks_ |
