@@ -1,6 +1,6 @@
 # Latest G.S.P. Log
 
-# Entry - 2026-09-18
+# Entry - 2026-09-21
 
 ## Goals
 - Submit EOI (Target: October 2026).
@@ -21,11 +21,8 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-|Coffee , New Sheets , Breakfast @ 1000 | _add_remarks_ |
-|Work on Issue #6 , Music Practice varnam in vasantha @ 1100 | _add_remarks_ |
-|Video Editing , Voice over scripting , Annotating @ 1400 | _add_remarks_ |
-|Gym @ 1445 | _add_remarks_ |
-|Work @ 1645 | _add_remarks_ |
-
-## Number of days until reflection
-12
+|Coffee , Breakfast @ 0830 | _add_remarks_ |
+|Work on Issue #6 , Music Practice varnam in vasantha @ 0900 | _add_remarks_ |
+|Gym , do not park inside westfield @ 1230 | _add_remarks_ |
+|Work @ 1415 | _add_remarks_ |
+|Video Editing , Voice over scripting , Annotating @ 2300 | _add_remarks_ |
