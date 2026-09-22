@@ -30,3 +30,6 @@
 |Gym(Skip the warm up), Hit shoulders and triceps  @ 1900 | _add_remarks_ |
 |Music @ 2000 | _add_remarks_ |
 |Email ANUSA a draft show cause notice @ 2100 | _add_remarks_ |
+
+## Number of days until reflection
+7
