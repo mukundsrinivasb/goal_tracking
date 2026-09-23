@@ -27,3 +27,6 @@
 |UberEats @ 1100 | _add_remarks_ |
 |Gym, Hit Core and grip  @ 1415 | _add_remarks_ |
 |Work , Coles  @ 1715 | _add_remarks_ |
+
+## Number of days until reflection
+6
