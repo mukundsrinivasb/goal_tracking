@@ -1,6 +1,6 @@
 # Latest G.S.P. Log
 
-# Entry - 2026-09-24
+# Entry - 2026-09-25
 
 ## Goals
 - Submit EOI (Target: October 2026).
@@ -23,10 +23,6 @@
 | :--- | :--- |
 |Coffee , Breakfast @ 0830 | _add_remarks_ |
 |Linedry , Fold , Prep Gym Bag for Gym and Work @ 0930 | _add_remarks_ |
-|Uni @ 1100 | _add_remarks_ |
-|UberEats @ 1100 | _add_remarks_ |
-|Gym, Hit Core and grip  @ 1415 | _add_remarks_ |
-|Work , Coles  @ 1715 | _add_remarks_ |
-
-## Number of days until reflection
-6
+|Submit Show Cause @ 0945 | _add_remarks_ |
+|Gym, Hit Chest  @ 1315 | _add_remarks_ |
+|Work , Coles  @ 1515 | _add_remarks_ |
