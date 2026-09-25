@@ -27,3 +27,6 @@
 |Gym, Hit Chest  @ 1315 | _add_remarks_ |
 |Work , UberEats  @ 1515 | _add_remarks_ |
 |Protein , Supplement , Sleep  @ 2215 | _add_remarks_ |
+
+## Number of days until reflection
+4
