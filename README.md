@@ -1,6 +1,6 @@
 # Latest G.S.P. Log
 
-# Entry - 2026-09-30
+# Entry - 2026-10-01
 
 ## Goals
 - Submit EOI (Target: October 2026).
@@ -22,18 +22,9 @@
 | Task | Remarks |
 | :--- | :--- |
 |Coffee , Breakfast @ 0900 | _add_remarks_ |
-|Call Infringements office , get on an infringement plan , Rego Renewal @ 1030 | _add_remarks_ |
-|Face care Moisturize , Sunscreen @ 1230 | _add_remarks_ |
-|Cleaning ,Laundry, Linedry @ 1245 | _add_remarks_ |
-|Software Engineering essay @ 1315 | _add_remarks_ |
-|Haircare @ 1515 | _add_remarks_ |
-|Get Racquet fromn Div and Vikram @ 1645 | _add_remarks_ |
-|Tennis, Radford Courts @ 1730 | _add_remarks_ |
-|Music Class @ 2000 | _add_remarks_ |
-|Software Engineering Essay @ 2100 | _add_remarks_ |
-|RSA @ 2230 | _add_remarks_ |
+|Software Engineering Essay @ 1000 | _add_remarks_ |
+|Gym , Back and biceps @ 1145 | _add_remarks_ |
+|Work, Coles @ 1430 | _add_remarks_ |
 |Protein , Supplement @ 2300 | _add_remarks_ |
+|RSA @ 2330 | _add_remarks_ |
 |Sleep @ 0100 | _add_remarks_ |
-
-## Number of days until reflection
-0
