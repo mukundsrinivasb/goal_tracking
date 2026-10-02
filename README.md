@@ -1,6 +1,6 @@
 # Latest G.S.P. Log
 
-# Entry - 2026-10-02
+# Entry - 2026-10-03
 
 ## Goals
 - Submit EOI (Target: October 2026).
@@ -24,10 +24,8 @@
 |Coffee , Breakfast @ 0900 | _add_remarks_ |
 |Software Engineering Essay @ 1000 | _add_remarks_ |
 |Gym , shoulders and triceps @ 1230 | _add_remarks_ |
-|Work, Coles @ 1430 | _add_remarks_ |
-|Protein , Supplement @ 2300 | _add_remarks_ |
+|Work, UberEats @ 1430 | _add_remarks_ |
+|Protein , Supplement , get ready to party @ 2130 | _add_remarks_ |
+|Party @ 2230 | _add_remarks_ |
 |RSA @ 2330 | _add_remarks_ |
 |Sleep @ 0100 | _add_remarks_ |
-
-## Number of days until reflection
-29
