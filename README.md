@@ -16,7 +16,7 @@
 - NSW Pass Driving Exam. (Target: 9th October).
 - Apply for Skill Assesment (Target: 15th October).
 - Submit Assignment 4 , Software Engineering (Target: 22th October).
-- Progress to -- We shall analyse that 
+- Progress to assisted pullups r12 - r16 , 5 reps by 5th November
 
 ## Plan
 | Task | Remarks |
@@ -26,6 +26,3 @@
 |Gym , Core and Grip @ 1245 | _add_remarks_ |
 |RSA @ 2330 | _add_remarks_ |
 |Sleep @ 0100 | _add_remarks_ |
-
-## Number of days until reflection
-26
