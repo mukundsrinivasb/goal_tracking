@@ -1,6 +1,6 @@
 # Latest G.S.P. Log
 
-# Entry - 2026-10-05
+# Entry - 2026-10-06
 
 ## Goals
 - Submit EOI (Target: October 2026).
@@ -14,18 +14,21 @@
 ## Strategy
 - Hanuman Chalisa 11 Times Every Day till I get my TR (Target: 16th December).
 - NSW Pass Driving Exam. (Target: 9th October).
+- Purchase guitar (Target: 10th October).
 - Apply for Skill Assesment (Target: 15th October).
+- Speak with Agent regarding moving to perth (Target: 15th October).
+- Book tickets to perth.(Target: 20th October)
 - Submit Assignment 4 , Software Engineering (Target: 22th October).
-- Progress to assisted pullups r12 - r16 , 5 reps by 5th November
+- Book Accomodation at perth.(Target: 27th October)
+- Buy A mac book air before the trip.(Target: 7th November)
+- Progress to assisted pullups r12 - r16 , 5 reps by (Target: 5th November)
 
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
 |Coffee , Breakfast @ 0900 | _add_remarks_ |
 |Work, UberEats @ 1000 | _add_remarks_ |
-|Gym , Core and Grip @ 1245 | _add_remarks_ |
+|Gym , Core and Grip @ 1300 | _add_remarks_ |
+|Work, UberEats @ 15530 | _add_remarks_ |
 |RSA @ 2330 | _add_remarks_ |
 |Sleep @ 0100 | _add_remarks_ |
-
-## Number of days until reflection
-26
