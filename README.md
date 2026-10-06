@@ -35,3 +35,6 @@
 |RSA @ 1930 | _add_remarks_ |
 |Music Class @ 2030 | _add_remarks_ |
 |Sleep @ 0100 | _add_remarks_ |
+
+## Number of days until reflection
+24
