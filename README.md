@@ -32,3 +32,6 @@
 |Gym @ 1445 | _add_remarks_ |
 |Work @ 1715 | _add_remarks_ |
 |Sleep @ 0100 | _add_remarks_ |
+
+## Number of days until reflection
+23
