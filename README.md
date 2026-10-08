@@ -34,3 +34,6 @@
 |Work, Coles @ 1415 | _add_remarks_ |
 |Gym : Legs @ 2245 | _add_remarks_ |
 |Sleep @ 0100 | _add_remarks_ |
+
+## Number of days until reflection
+22
