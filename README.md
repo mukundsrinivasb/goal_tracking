@@ -1,6 +1,6 @@
 # Latest G.S.P. Log
 
-# Entry - 2026-10-08
+# Entry - 2026-10-09
 
 ## Goals
 - Submit EOI (Target: October 2026).
@@ -26,12 +26,11 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-|Coffee,Breakfast @ 0800 | _add_remarks_ |
-|Clothes Folding @ 0900 | _add_remarks_ |
-|Uber Eats @ 0930 | _add_remarks_ |
-|Gym @ 1445 | _add_remarks_ |
-|Work @ 1715 | _add_remarks_ |
+|Shower,Breakfast @ 0645 | _add_remarks_ |
+|Pack Bags,Driving test documents , Clean the boot , Start @ 0730 | _add_remarks_ |
+|Coffee : Murrumbateman @ 0815 | _add_remarks_ |
+|Driving Test @ 0845 | _add_remarks_ |
+|Work, Uber Eats @ 1130 | _add_remarks_ |
+|Work, Coles @ 1415 | _add_remarks_ |
+|Gym : Legs @ 2245 | _add_remarks_ |
 |Sleep @ 0100 | _add_remarks_ |
-
-## Number of days until reflection
-23
