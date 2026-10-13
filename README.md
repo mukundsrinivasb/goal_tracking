@@ -1,6 +1,6 @@
 # Latest G.S.P. Log
 
-# Entry - 2026-10-14
+# Entry - 2026-10-15
 
 ## Goals
 - Submit EOI (Target: October 2026).
@@ -34,6 +34,3 @@
 |Music , Vocals @ 2100 | _add_remarks_ |
 |Music , Guitar @ 2200 | _add_remarks_ |
 |Sleep @ 0100 | _add_remarks_ |
-
-## Number of days until reflection
-17
