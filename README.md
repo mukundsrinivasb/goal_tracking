@@ -1,6 +1,6 @@
 # Latest G.S.P. Log
 
-# Entry - 2026-10-13
+# Entry - 2026-10-14
 
 ## Goals
 - Submit EOI (Target: October 2026).
@@ -23,13 +23,14 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-|Shower,Breakfast @ 0645 | _add_remarks_ |
-|Work, Uber Eats @ 0800 | _add_remarks_ |
-|Gym : Legs @ 1245 | _add_remarks_ |
-|Work, Uber Eats @ 1515 | _add_remarks_ |
-|Select repo to work on @ 2015 | _add_remarks_ |
-|RSA @ 2130 | _add_remarks_ |
+|Coffee,Breakfast @ 0845 | _add_remarks_ |
+|Laundry, Desk Cleaning , room cleaning @ 0945  | _add_remarks_ |
+|Line Dry @ 1030 | _add_remarks_ |
+|Ass 4 work  @ 1130 | _add_remarks_ |
+|RSA work  @ 1400 | _add_remarks_ |
+|Hair Care  @ 1515 | _add_remarks_ |
+|Gym, Legs  @ 1530 | _add_remarks_ |
+|Tennis  @ 1730 | _add_remarks_ |
+|Music , Vocals @ 2100 | _add_remarks_ |
+|Music , Guitar @ 2200 | _add_remarks_ |
 |Sleep @ 0100 | _add_remarks_ |
-
-## Number of days until reflection
-18
