@@ -28,3 +28,6 @@
 |Work , Coles @ 1430 | _add_remarks_ |
 |Gym, Core and grip @ 2230 | _add_remarks_ |
 |Sleep @ 0100 | _add_remarks_ |
+
+## Number of days until reflection
+8
