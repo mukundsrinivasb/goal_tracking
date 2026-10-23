@@ -26,3 +26,6 @@
 |Presentation slides completion  @ 1700 | _add_remarks_ |
 |Guitar practice @ 2100 | _add_remarks_ |
 |Sleep @ 0100 | _add_remarks_ |
+
+## Number of days until reflection
+7
