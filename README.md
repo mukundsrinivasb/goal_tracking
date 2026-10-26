@@ -27,3 +27,6 @@
 |Guitar practice @ 2315 | _add_remarks_ |
 |Day-Plan @ 0015 | _add_remarks_ |
 |Sleep @ 0100 | _add_remarks_ |
+
+## Number of days until reflection
+4
