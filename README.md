@@ -26,3 +26,6 @@
 |Shower, Play Video games @ 2045 | _add_remarks_ |
 |Day-Plan, Guitar Practice @ 0015 | _add_remarks_ |
 |Sleep @ 0100 | _add_remarks_ |
+
+## Number of days until reflection
+3
