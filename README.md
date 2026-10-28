@@ -1,6 +1,6 @@
 # Latest G.S.P. Log
 
-# Entry - 2026-10-28
+# Entry - 2026-10-29
 
 ## Goals
 - Begin applying for software engineering roles (Target: November 2026).
@@ -19,13 +19,12 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-|Coffee,Breakfast @ 0845 | _add_remarks_ |
-| Laundry , Room Cleaning , Sheet change , Bathroom cleaning @ 1000 | _add_remarks_ |
-|Print out varnam in vasantha and saranga, Leave for divs, Play Video Games  @ 1300 | _add_remarks_ |
-|Hair Care, Badminton @ 1930 | _add_remarks_ |
-|Shower, Play Video games @ 2045 | _add_remarks_ |
-|Day-Plan, Guitar Practice @ 0015 | _add_remarks_ |
+|Shower @ 0800 | _add_remarks_ |
+|Coffee,Breakfast @ 0830 | _add_remarks_ |
+|Work @ 0915 | _add_remarks_ |
+|Software Engg presentation @ 1045 | _add_remarks_ |
+|Work @ 1100 | _add_remarks_ |
+|UberEats @ 1800 | _add_remarks_ |
+|Brave Browser PR @ 2300 | _add_remarks_ |
+|Guitar Practice @ 0015 | _add_remarks_ |
 |Sleep @ 0100 | _add_remarks_ |
-
-## Number of days until reflection
-3
