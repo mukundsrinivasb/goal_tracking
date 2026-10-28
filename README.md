@@ -28,3 +28,6 @@
 |Brave Browser PR @ 2300 | _add_remarks_ |
 |Guitar Practice @ 0015 | _add_remarks_ |
 |Sleep @ 0100 | _add_remarks_ |
+
+## Number of days until reflection
+2
