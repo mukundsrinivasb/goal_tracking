@@ -1,10 +1,10 @@
 # Latest G.S.P. Log
 
-# Entry - 2026-10-29
+# Entry - 2026-11-13
 
 ## Goals
 - Begin applying for software engineering roles (Target: November 2026).
-- Graduate from the Masters of Computing (Target: November 2026).
+- Graduate from the Masters of Computing (Target: December 2026).
 - Submit EOI (Target: December 2026).
 - Purchase M-size shirts & Size-32 Pants (Target: December 2026).
 - Apply for TR (Target: 16th December).
@@ -19,15 +19,9 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-|Shower @ 0800 | _add_remarks_ |
-|Coffee,Breakfast @ 0830 | _add_remarks_ |
-|Work @ 0915 | _add_remarks_ |
-|Software Engg presentation @ 1045 | _add_remarks_ |
-|Work @ 1100 | _add_remarks_ |
-|UberEats @ 1800 | _add_remarks_ |
-|Brave Browser PR @ 2300 | _add_remarks_ |
-|Guitar Practice @ 0015 | _add_remarks_ |
+|Shower @ 1000 | _add_remarks_ |
+|Coffee,Breakfast @ 1100 | _add_remarks_ |
+|Job Listing, list 5 jobs each in GIS, software and retail @ 1315 | _add_remarks_ |
+|New issues on the desk organizer @ 1330 | _add_remarks_ |
+|Work, Coles @ 1430 | _add_remarks_ |
 |Sleep @ 0100 | _add_remarks_ |
-
-## Number of days until reflection
-2
