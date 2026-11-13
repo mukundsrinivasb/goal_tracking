@@ -27,3 +27,6 @@
 |Gym, Core and grip @ 2245 | _add_remarks_ |
 |Guitar tabs annotation for varaveena  @ 2330 | _add_remarks_ |
 |Sleep @ 0100 | _add_remarks_ |
+
+## Number of days until reflection
+17
