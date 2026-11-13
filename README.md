@@ -21,10 +21,9 @@
 | :--- | :--- |
 |Shower @ 1000 | _add_remarks_ |
 |Coffee,Breakfast @ 1100 | _add_remarks_ |
-|Job Listing, list 5 jobs each in GIS, software and retail @ 1315 | _add_remarks_ |
+|Job Listing, list 5 jobs each in GIS, software and retail @ 1300 | _add_remarks_ |
 |New issues on the desk organizer @ 1330 | _add_remarks_ |
 |Work, Coles @ 1430 | _add_remarks_ |
+|Gym, Core and grip @ 2245 | _add_remarks_ |
+|Guitar tabs annotation for varaveena  @ 2330 | _add_remarks_ |
 |Sleep @ 0100 | _add_remarks_ |
-
-## Number of days until reflection
-17
