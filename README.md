@@ -1,6 +1,6 @@
 # Latest G.S.P. Log
 
-# Entry - 2026-11-13
+# Entry - 2026-11-14
 
 ## Goals
 - Begin applying for software engineering roles (Target: November 2026).
@@ -15,18 +15,16 @@
 - Book tickets to perth.(Target: 1st November)
 - Progress to assisted pullups r12 - r16 , 5 reps by (Target: 5th November)
 - Study NSW A guide to the driving test. (Target: 16th November).
+- Buy Laptop by my birthday.
 
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-|Shower @ 1000 | _add_remarks_ |
-|Coffee,Breakfast @ 1100 | _add_remarks_ |
-|Job Listing, list 5 jobs each in GIS, software and retail @ 1300 | _add_remarks_ |
-|New issues on the desk organizer @ 1330 | _add_remarks_ |
-|Work, Coles @ 1430 | _add_remarks_ |
-|Gym, Core and grip @ 2245 | _add_remarks_ |
-|Guitar tabs annotation for varaveena  @ 2330 | _add_remarks_ |
+|Coffee,Breakfast @ 0830 | _add_remarks_ |
+|Job Listing, list 5 jobs each in GIS, software and retail @ 0930 | _add_remarks_ |
+|Badminton , Belconnen @ 1100 | _add_remarks_ |
+|Gym , Core and grip @ 1330 | _add_remarks_ |
+|Work , UberEats @ 1600 | _add_remarks_ |
+|New issues on the desk organizer @ 2300 | _add_remarks_ |
+|Guitar Practice, tabs per bar for Malahari Geetham @ 0000 | _add_remarks_ |
 |Sleep @ 0100 | _add_remarks_ |
-
-## Number of days until reflection
-17
