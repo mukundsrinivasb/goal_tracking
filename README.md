@@ -29,3 +29,6 @@
 |Xbox at divs @ 2000 | _add_remarks_ |
 |Guitar Practice, tabs per bar for Malahari Geetham @ 0000 | _add_remarks_ |
 |Sleep @ 0100 | _add_remarks_ |
+
+## Number of days until reflection
+12
