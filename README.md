@@ -29,3 +29,6 @@
 |Submit resumes to BWS Stores @ 1430  | _add_remarks_ |
 |Drive to Melbourne @ 1530  | _add_remarks_ |
 |Sleep @ 0200 | _add_remarks_ |
+
+## Number of days until reflection
+6
