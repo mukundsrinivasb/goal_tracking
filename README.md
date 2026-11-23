@@ -1,6 +1,6 @@
 # Latest G.S.P. Log
 
-# Entry - 2026-11-21
+# Entry - 2026-11-24
 
 ## Goals
 - Begin applying for software engineering roles (Target: November 2026).
@@ -9,6 +9,7 @@
 - Purchase M-size shirts & Size-32 Pants (Target: December 2026).
 - Apply for TR (Target: 16th December).
 - Get a drivers licence (Target: January 14th 2027)
+- Play navaraga malika on the guitar (Target: 20th October 2027)
 
 ## Strategy
 - Hanuman Chalisa 11 Times Every Day till I get my TR (Target: 16th December).
@@ -22,14 +23,9 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-|Coffee,Shopping for breakfast @ 1330 | _add_remarks_ |
-|Resume Writing for Jobs at BWS and other liquor stores, apply online @ 1400 | _add_remarks_ |
-|Tweak tech resume to apply at eShepheard @ 1500 | _add_remarks_ |
-|Open Issues on Disk Organizer @ 1530 | _add_remarks_ |
-|UberEats @ 1630 | _add_remarks_ |
-|Xbox at divs @ 2130 | _add_remarks_ |
-|Guitar Practice, tabs per bar for Malahari Geetham @ 0000 | _add_remarks_ |
-|Sleep @ 0100 | _add_remarks_ |
-
-## Number of days until reflection
-9
+|Coffee,Shopping for breakfast, Resume print outs,for BWS @ 1130 | _add_remarks_ |
+|Resume Writing for Jobs at Salesforce @ 1230 | _add_remarks_ |
+|Open Issues on Disk Organizer @ 1330 | _add_remarks_ |
+|Submit resumes to BWS Stores @ 1430  | _add_remarks_ |
+|Drive to Melbourne @ 1530  | _add_remarks_ |
+|Sleep @ 0200 | _add_remarks_ |
