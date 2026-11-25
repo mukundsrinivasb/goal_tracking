@@ -1,0 +1,25 @@
+# ESP-IDF Build & Config
+build/
+sdkconfig
+sdkconfig.old
+.espressif/
+.elf
+.map
+.bin
+.obj/
+
+# Editor & IDE
+*.swp
+*.swo
+.cache/
+.project
+.settings/
+compile_commands.json
+tags
+cscope.*
+.clangd
+
+# System Files
+.DS_Store
+Thumbs.db
+*.log

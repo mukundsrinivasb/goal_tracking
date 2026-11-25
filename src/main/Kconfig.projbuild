@@ -1,0 +1,16 @@
+menu "Desk Organizer Configuration"
+config ESP_WIFI_SSID
+	string "WiFi SSID"
+	default "ViewCourtL"
+
+config ESP_WIFI_PASSWORD
+	string "WiFi PASSWORD"
+	default "KikiAmmu.0812"
+config TURSO_HOST
+	string "Turso Host URL"
+	default "task-tracking-mukundsrinivasb.aws-ap-south-1.turso.io"
+
+config TURSO_TOKEN
+	string "Turso Auth Token"
+	default "eyJhbGciOiJFZERTQSIsInR5cCI6IkpXVCJ9.eyJqdGkiOiJHZmVJT0h3U0VmR0VaYzczR2NhaFl3Iiwib3JnX2lkIjoxMDAwMTU4MzEwfQ.PC5-T8n1EN-aD-4XVeqv0ivK4Rrw333n3Ch5vQ_y6qP4aVLmx4KX6mG3ULEjuOuWFVZK3klxMivgjyCMP7oWDA"
+endmenu
