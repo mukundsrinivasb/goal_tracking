@@ -1,6 +1,6 @@
 # Latest G.S.P. Log
 
-# Entry - 2026-11-26
+# Entry - 2026-11-27
 
 ## Goals
 - Apply for 50 Software roles and 20 GIS roles (Target: December 2026).
@@ -23,14 +23,11 @@
 ## Plan
 | Task | Remarks |
 | :--- | :--- |
-|Coffee,breakfast @ 0830 | _add_remarks_ |
+|Coffee,breakfast @ 0700 | _add_remarks_ |
+|Meeting with career coach @ 0800 | _add_remarks_ |
 |UberEats @ 0930 | _add_remarks_ |
-|Resume Writing for Jobs at Salesforce @ 1430 | _add_remarks_ |
-|Begin work on Issue #2  @ 1500 | _add_remarks_ |
-|UberEats @ 1600 | _add_remarks_ |
-|Dinner,Entertainment @ 2230 | _add_remarks_ |
+|Book Driving Test @ 1230 | _add_remarks_ |
+|UberEats @ 1500 | _add_remarks_ |
+|Dinner,Entertainment @ 2300 | _add_remarks_ |
 |Record Malahari geetham with gamakas @ 2330 | _add_remarks_ |
 |Sleep @ 0130 | _add_remarks_ |
-
-## Number of days until reflection
-4
